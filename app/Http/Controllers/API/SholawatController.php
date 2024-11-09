@@ -24,7 +24,6 @@ class SholawatController extends Controller
         if ($request->has('search')) {
             $query->where(function ($query) use ($request) {
                 $query->where("title", "LIKE", "%$request->search%");
-                $query->orWhere("content", "LIKE", "%$request->search%");
             });
         }
 
