@@ -31,6 +31,10 @@ class DoaController extends Controller
       $query->where('id', $request->doa_id);
     }
 
+    if ($request->has('category_id')) {
+      $query->where('category_id', $request->category_id);
+    }
+
     $countdoa = $query->count();
     $doa = $query->paginate($request->per_page);
 
