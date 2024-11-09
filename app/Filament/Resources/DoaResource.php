@@ -71,10 +71,11 @@ class DoaResource extends Resource
                         1 => 'Active',
                         0 => 'Non Active'
                     ]),
-                SelectFilter::make("category")
+                SelectFilter::make("category_id")
                     ->options(DoaCategory::all()->pluck("title", "id"))
                     ->searchable()
                     ->preload()
+                      ->label("category")
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),
