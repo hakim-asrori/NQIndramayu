@@ -18,6 +18,7 @@ use Filament\Tables\Columns\ImageColumn;
 use Filament\Tables\Columns\SelectColumn;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Columns\ToggleColumn;
+use Filament\Tables\Filters\SelectFilter;
 use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
@@ -52,7 +53,7 @@ class VideoResource extends Resource
     {
         return $table
             ->columns([
-                TextColumn::make("title"),
+                TextColumn::make("title")->searchable(),
                 SelectColumn::make("type")->options([
                     1 => "Live",
                     2 => "Video",
@@ -71,7 +72,18 @@ class VideoResource extends Resource
                 }),
             ])
             ->filters([
-                //
+                SelectFilter::make("status")
+                    ->options([
+                        1 => 'Active',
+                        0 => 'Non Active'
+                    ]),
+                SelectFilter::make("type")
+                    ->options([
+                        1 => "Live",
+                        2 => "Video",
+                    ])
+                    ->searchable()
+                    ->preload()
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),

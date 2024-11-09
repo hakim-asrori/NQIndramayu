@@ -1,0 +1,255 @@
+[
+    {
+        "id": 6139,
+        "surah_id": 99,
+        "ayah": 1,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0630\u064e\u0627 \u0632\u064f\u0644\u0652\u0632\u0650\u0644\u064e\u062a\u0650 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f \u0632\u0650\u0644\u0652\u0632\u064e\u0627\u0644\u064e\u0647\u064e\u0627\u06d9",
+        "kitabah": "\u0627\u0650\u0630\u064e\u0627 \u0632\u064f\u0644\u0652\u0632\u0650\u0644\u064e\u062a\u0650 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f \u0632\u0650\u0644\u0652\u0632\u064e\u0627\u0644\u064e\u0647\u064e\u0627\u06d9",
+        "latin": "I\u017c\u0101 zulzilatil-ar\u1e0du zilz\u0101lah\u0101.",
+        "arabic_words": [
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u0632\u064f\u0644\u0652\u0632\u0650\u0644\u064e\u062a\u0650",
+            "\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f",
+            "\u0632\u0650\u0644\u0652\u0632\u064e\u0627\u0644\u064e\u0647\u064e\u0627\u06d9"
+        ],
+        "translation": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "\u0627\u0644\u0632\u0651\u0644\u0632\u0644\u0629",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6140,
+        "surah_id": 99,
+        "ayah": 2,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u064e\u062e\u0652\u0631\u064e\u062c\u064e\u062a\u0650 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f \u0627\u064e\u062b\u0652\u0642\u064e\u0627\u0644\u064e\u0647\u064e\u0627\u06d9",
+        "kitabah": "\u0648\u064e\u0627\u064e\u062e\u0652\u0631\u064e\u062c\u064e\u062a\u0650 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f \u0627\u064e\u062b\u0652\u0642\u064e\u0627\u0644\u064e\u0647\u064e\u0627\u06d9",
+        "latin": "Wa akhrajatil-ar\u1e0du a\u1e61q\u0101lah\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u064e\u062e\u0652\u0631\u064e\u062c\u064e\u062a\u0650",
+            "\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064f",
+            "\u0627\u064e\u062b\u0652\u0642\u064e\u0627\u0644\u064e\u0647\u064e\u0627\u06d9"
+        ],
+        "translation": "bumi mengeluarkan isi perutnya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "\u0627\u0644\u0632\u0651\u0644\u0632\u0644\u0629",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6141,
+        "surah_id": 99,
+        "ayah": 3,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0642\u064e\u0627\u0644\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0645\u064e\u0627 \u0644\u064e\u0647\u064e\u0627\u06da",
+        "kitabah": "\u0648\u064e\u0642\u064e\u0627\u0644\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0645\u064e\u0627 \u0644\u064e\u0647\u064e\u0627\u06da",
+        "latin": "Wa q\u0101lal-ins\u0101nu m\u0101 lah\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0642\u064e\u0627\u0644\u064e",
+            "\u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f",
+            "\u0645\u064e\u0627",
+            "\u0644\u064e\u0647\u064e\u0627\u06da"
+        ],
+        "translation": "dan manusia bertanya, \u201cApa yang terjadi dengannya (bumi)?\u201d",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "\u0627\u0644\u0632\u0651\u0644\u0632\u0644\u0629",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6142,
+        "surah_id": 99,
+        "ayah": 4,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u062a\u064f\u062d\u064e\u062f\u0651\u0650\u062b\u064f \u0627\u064e\u062e\u0652\u0628\u064e\u0627\u0631\u064e\u0647\u064e\u0627\u06d9",
+        "kitabah": "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u062a\u064f\u062d\u064e\u062f\u0651\u0650\u062b\u064f \u0627\u064e\u062e\u0652\u0628\u064e\u0627\u0631\u064e\u0647\u064e\u0627\u06d9",
+        "latin": "Yauma'i\u017cin tu\u1e25addi\u1e61u akhb\u0101rah\u0101.",
+        "arabic_words": [
+            "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d",
+            "\u062a\u064f\u062d\u064e\u062f\u0651\u0650\u062b\u064f",
+            "\u0627\u064e\u062e\u0652\u0628\u064e\u0627\u0631\u064e\u0647\u064e\u0627\u06d9"
+        ],
+        "translation": "Pada hari itu (bumi) menyampaikan berita (tentang apa yang diperbuat manusia di atasnya)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "\u0627\u0644\u0632\u0651\u0644\u0632\u0644\u0629",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6143,
+        "surah_id": 99,
+        "ayah": 5,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0628\u0650\u0627\u064e\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u064e\u0643\u064e \u0627\u064e\u0648\u0652\u062d\u0670\u0649 \u0644\u064e\u0647\u064e\u0627\u06d7",
+        "kitabah": "\u0628\u0650\u0627\u064e\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u064e\u0643\u064e \u0627\u064e\u0648\u0652\u062d\u0670\u0649 \u0644\u064e\u0647\u064e\u0627\u06d7",
+        "latin": "Bi'anna rabbaka au\u1e25\u0101 lah\u0101.",
+        "arabic_words": [
+            "\u0628\u0650\u0627\u064e\u0646\u0651\u064e",
+            "\u0631\u064e\u0628\u0651\u064e\u0643\u064e",
+            "\u0627\u064e\u0648\u0652\u062d\u0670\u0649",
+            "\u0644\u064e\u0647\u064e\u0627\u06d7"
+        ],
+        "translation": "karena sesungguhnya Tuhanmu telah memerintahkan (yang demikian itu) kepadanya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "\u0627\u0644\u0632\u0651\u0644\u0632\u0644\u0629",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6144,
+        "surah_id": 99,
+        "ayah": 6,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u064a\u0651\u064e\u0635\u0652\u062f\u064f\u0631\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f \u0627\u064e\u0634\u0652\u062a\u064e\u0627\u062a\u064b\u0627 \u06d5\u06d9 \u0644\u0651\u0650\u064a\u064f\u0631\u064e\u0648\u0652\u0627 \u0627\u064e\u0639\u0652\u0645\u064e\u0627\u0644\u064e\u0647\u064f\u0645\u0652\u06d7",
+        "kitabah": "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u064a\u0651\u064e\u0635\u0652\u062f\u064f\u0631\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f \u0627\u064e\u0634\u0652\u062a\u064e\u0627\u062a\u064b\u0627 \u06d5\u06d9 \u0644\u0651\u0650\u064a\u064f\u0631\u064e\u0648\u0652\u0627 \u0627\u064e\u0639\u0652\u0645\u064e\u0627\u0644\u064e\u0647\u064f\u0645\u0652\u06d7",
+        "latin": "Yauma'i\u017ciy ya\u1e63durun-n\u0101su asyt\u0101t\u0101(n), liyurau a\u2018m\u0101lahum.",
+        "arabic_words": [
+            "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d",
+            "\u064a\u0651\u064e\u0635\u0652\u062f\u064f\u0631\u064f",
+            "\u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f",
+            "\u0627\u064e\u0634\u0652\u062a\u064e\u0627\u062a\u064b\u0627",
+            "\u06d5\u06d9",
+            "\u0644\u0651\u0650\u064a\u064f\u0631\u064e\u0648\u0652\u0627",
+            "\u0627\u064e\u0639\u0652\u0645\u064e\u0627\u0644\u064e\u0647\u064f\u0645\u0652\u06d7"
+        ],
+        "translation": "Pada hari itu manusia keluar (dari kuburnya) dalam keadaan terpencar untuk diperlihatkan kepada mereka (balasan) semua perbuatan mereka.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "\u0627\u0644\u0632\u0651\u0644\u0632\u0644\u0629",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6145,
+        "surah_id": 99,
+        "ayah": 7,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0639\u0652\u0645\u064e\u0644\u0652 \u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e \u0630\u064e\u0631\u0651\u064e\u0629\u064d \u062e\u064e\u064a\u0652\u0631\u064b\u0627 \u064a\u0651\u064e\u0631\u064e\u0647\u0657\u06da",
+        "kitabah": "\u0641\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0639\u0652\u0645\u064e\u0644\u0652 \u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e \u0630\u064e\u0631\u0651\u064e\u0629\u064d \u062e\u064e\u064a\u0652\u0631\u064b\u0627 \u064a\u0651\u064e\u0631\u064e\u0647\u0657\u06da",
+        "latin": "Famay ya\u2018mal mi\u1e61q\u0101la \u017carratin khairay yarah(\u016b).",
+        "arabic_words": [
+            "\u0641\u064e\u0645\u064e\u0646\u0652",
+            "\u064a\u0651\u064e\u0639\u0652\u0645\u064e\u0644\u0652",
+            "\u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e",
+            "\u0630\u064e\u0631\u0651\u064e\u0629\u064d",
+            "\u062e\u064e\u064a\u0652\u0631\u064b\u0627",
+            "\u064a\u0651\u064e\u0631\u064e\u0647\u0657\u06da"
+        ],
+        "translation": "Siapa yang mengerjakan kebaikan seberat zarah, dia akan melihat (balasan)-nya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "\u0627\u0644\u0632\u0651\u0644\u0632\u0644\u0629",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6146,
+        "surah_id": 99,
+        "ayah": 8,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0639\u0652\u0645\u064e\u0644\u0652 \u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e \u0630\u064e\u0631\u0651\u064e\u0629\u064d \u0634\u064e\u0631\u0651\u064b\u0627 \u064a\u0651\u064e\u0631\u064e\u0647\u0657 \u08d6",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0646\u0652 \u064a\u0651\u064e\u0639\u0652\u0645\u064e\u0644\u0652 \u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e \u0630\u064e\u0631\u0651\u064e\u0629\u064d \u0634\u064e\u0631\u0651\u064b\u0627 \u064a\u0651\u064e\u0631\u064e\u0647\u0657 \u08d6",
+        "latin": "Wa may ya\u2018mal mi\u1e61q\u0101la \u017carratin syarray yarah(\u016b).",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0646\u0652",
+            "\u064a\u0651\u064e\u0639\u0652\u0645\u064e\u0644\u0652",
+            "\u0645\u0650\u062b\u0652\u0642\u064e\u0627\u0644\u064e",
+            "\u0630\u064e\u0631\u0651\u064e\u0629\u064d",
+            "\u0634\u064e\u0631\u0651\u064b\u0627",
+            "\u064a\u0651\u064e\u0631\u064e\u0647\u0657 \u08d6"
+        ],
+        "translation": "Siapa yang mengerjakan kejahatan seberat zarah, dia akan melihat (balasan)-nya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "\u0627\u0644\u0632\u0651\u0644\u0632\u0644\u0629",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    }
+]

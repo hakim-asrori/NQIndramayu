@@ -1,0 +1,461 @@
+[
+    {
+        "id": 6044,
+        "surah_id": 91,
+        "ayah": 1,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0634\u0651\u064e\u0645\u0652\u0633\u0650 \u0648\u064e\u0636\u064f\u062d\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0634\u0651\u064e\u0645\u0652\u0633\u0650 \u0648\u064e\u0636\u064f\u062d\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Wasy-syamsi wa \u1e0du\u1e25\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0634\u0651\u064e\u0645\u0652\u0633\u0650",
+            "\u0648\u064e\u0636\u064f\u062d\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "Demi matahari dan sinarnya pada waktu duha (ketika matahari naik sepenggalah),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6045,
+        "surah_id": 91,
+        "ayah": 2,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0652\u0642\u064e\u0645\u064e\u0631\u0650 \u0627\u0650\u0630\u064e\u0627 \u062a\u064e\u0644\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0652\u0642\u064e\u0645\u064e\u0631\u0650 \u0627\u0650\u0630\u064e\u0627 \u062a\u064e\u0644\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Wal-qamari i\u017c\u0101 tal\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0652\u0642\u064e\u0645\u064e\u0631\u0650",
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u062a\u064e\u0644\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "demi bulan saat mengiringinya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6046,
+        "surah_id": 91,
+        "ayah": 3,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0646\u0651\u064e\u0647\u064e\u0627\u0631\u0650 \u0627\u0650\u0630\u064e\u0627 \u062c\u064e\u0644\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0646\u0651\u064e\u0647\u064e\u0627\u0631\u0650 \u0627\u0650\u0630\u064e\u0627 \u062c\u064e\u0644\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Wan-nah\u0101ri i\u017c\u0101 jall\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0646\u0651\u064e\u0647\u064e\u0627\u0631\u0650",
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u062c\u064e\u0644\u0651\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "demi siang saat menampakkannya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6047,
+        "surah_id": 91,
+        "ayah": 4,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u0627\u0650\u0630\u064e\u0627 \u064a\u064e\u063a\u0652\u0634\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u0627\u0650\u0630\u064e\u0627 \u064a\u064e\u063a\u0652\u0634\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Wal-laili i\u017c\u0101 yagsy\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650",
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u064a\u064e\u063a\u0652\u0634\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "demi malam saat menutupinya (gelap gulita),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6048,
+        "surah_id": 91,
+        "ayah": 5,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650 \u0648\u064e\u0645\u064e\u0627 \u0628\u064e\u0646\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650 \u0648\u064e\u0645\u064e\u0627 \u0628\u064e\u0646\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Was-sam\u0101'i wa m\u0101 ban\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650",
+            "\u0648\u064e\u0645\u064e\u0627",
+            "\u0628\u064e\u0646\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "demi langit serta pembuatannya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6049,
+        "surah_id": 91,
+        "ayah": 6,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u0645\u064e\u0627 \u0637\u064e\u062d\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0648\u064e\u0645\u064e\u0627 \u0637\u064e\u062d\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Wal-ar\u1e0di wa m\u0101 \u1e6da\u1e25\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650",
+            "\u0648\u064e\u0645\u064e\u0627",
+            "\u0637\u064e\u062d\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": " demi bumi serta penghamparannya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6050,
+        "surah_id": 91,
+        "ayah": 7,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0646\u064e\u0641\u0652\u0633\u064d \u0648\u0651\u064e\u0645\u064e\u0627 \u0633\u064e\u0648\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0648\u064e\u0646\u064e\u0641\u0652\u0633\u064d \u0648\u0651\u064e\u0645\u064e\u0627 \u0633\u064e\u0648\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Wa nafsiw wa m\u0101 saww\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0646\u064e\u0641\u0652\u0633\u064d",
+            "\u0648\u0651\u064e\u0645\u064e\u0627",
+            "\u0633\u064e\u0648\u0651\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "dan demi jiwa serta penyempurnaan (ciptaan)-nya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6051,
+        "surah_id": 91,
+        "ayah": 8,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u064e\u0644\u0652\u0647\u064e\u0645\u064e\u0647\u064e\u0627 \u0641\u064f\u062c\u064f\u0648\u0652\u0631\u064e\u0647\u064e\u0627 \u0648\u064e\u062a\u064e\u0642\u0652\u0648\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0641\u064e\u0627\u064e\u0644\u0652\u0647\u064e\u0645\u064e\u0647\u064e\u0627 \u0641\u064f\u062c\u064f\u0648\u0652\u0631\u064e\u0647\u064e\u0627 \u0648\u064e\u062a\u064e\u0642\u0652\u0648\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Fa alhamah\u0101 fuj\u016brah\u0101 wa taqw\u0101h\u0101.",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u064e\u0644\u0652\u0647\u064e\u0645\u064e\u0647\u064e\u0627",
+            "\u0641\u064f\u062c\u064f\u0648\u0652\u0631\u064e\u0647\u064e\u0627",
+            "\u0648\u064e\u062a\u064e\u0642\u0652\u0648\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "lalu Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6052,
+        "surah_id": 91,
+        "ayah": 9,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0642\u064e\u062f\u0652 \u0627\u064e\u0641\u0652\u0644\u064e\u062d\u064e \u0645\u064e\u0646\u0652 \u0632\u064e\u0643\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0642\u064e\u062f\u0652 \u0627\u064e\u0641\u0652\u0644\u064e\u062d\u064e \u0645\u064e\u0646\u0652 \u0632\u064e\u0643\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Qad afla\u1e25a man zakk\u0101h\u0101.",
+        "arabic_words": [
+            "\u0642\u064e\u062f\u0652",
+            "\u0627\u064e\u0641\u0652\u0644\u064e\u062d\u064e",
+            "\u0645\u064e\u0646\u0652",
+            "\u0632\u064e\u0643\u0651\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "sungguh beruntung orang yang menyucikannya (jiwa itu)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6053,
+        "surah_id": 91,
+        "ayah": 10,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0642\u064e\u062f\u0652 \u062e\u064e\u0627\u0628\u064e \u0645\u064e\u0646\u0652 \u062f\u064e\u0633\u0651\u0670\u0649\u0647\u064e\u0627\u06d7",
+        "kitabah": "\u0648\u064e\u0642\u064e\u062f\u0652 \u062e\u064e\u0627\u0628\u064e \u0645\u064e\u0646\u0652 \u062f\u064e\u0633\u0651\u0670\u0649\u0647\u064e\u0627\u06d7",
+        "latin": "Wa qad kh\u0101ba man dass\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0642\u064e\u062f\u0652",
+            "\u062e\u064e\u0627\u0628\u064e",
+            "\u0645\u064e\u0646\u0652",
+            "\u062f\u064e\u0633\u0651\u0670\u0649\u0647\u064e\u0627\u06d7"
+        ],
+        "translation": "dan sungguh rugi orang yang mengotorinya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6054,
+        "surah_id": 91,
+        "ayah": 11,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0643\u064e\u0630\u0651\u064e\u0628\u064e\u062a\u0652 \u062b\u064e\u0645\u064f\u0648\u0652\u062f\u064f \u0628\u0650\u0637\u064e\u063a\u0652\u0648\u0670\u0649\u0647\u064e\u0627\u0653  \u06d6",
+        "kitabah": "\u0643\u064e\u0630\u0651\u064e\u0628\u064e\u062a\u0652 \u062b\u064e\u0645\u064f\u0648\u0652\u062f\u064f \u0628\u0650\u0637\u064e\u063a\u0652\u0648\u0670\u0649\u0647\u064e\u0627\u0653  \u06d6",
+        "latin": "Ka\u017c\u017cabat \u1e61am\u016bdu bi\u1e6dagw\u0101h\u0101.",
+        "arabic_words": [
+            "\u0643\u064e\u0630\u0651\u064e\u0628\u064e\u062a\u0652",
+            "\u062b\u064e\u0645\u064f\u0648\u0652\u062f\u064f",
+            "\u0628\u0650\u0637\u064e\u063a\u0652\u0648\u0670\u0649\u0647\u064e\u0627\u0653 \u06d6"
+        ],
+        "translation": "(Kaum) Samud telah mendustakan (rasulnya) karena mereka melampaui batas ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6055,
+        "surah_id": 91,
+        "ayah": 12,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0630\u0650 \u0627\u0646\u0652\u06e2\u0628\u064e\u0639\u064e\u062b\u064e \u0627\u064e\u0634\u0652\u0642\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0627\u0650\u0630\u0650 \u0627\u0646\u0652\u06e2\u0628\u064e\u0639\u064e\u062b\u064e \u0627\u064e\u0634\u0652\u0642\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "I\u017cimba\u2018a\u1e61a asyq\u0101h\u0101.",
+        "arabic_words": [
+            "\u0627\u0650\u0630\u0650",
+            "\u0627\u0646\u0652\u06e2\u0628\u064e\u0639\u064e\u062b\u064e",
+            "\u0627\u064e\u0634\u0652\u0642\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "ketika orang yang paling celaka di antara mereka bangkit (untuk menyembelih unta betina Allah).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6056,
+        "surah_id": 91,
+        "ayah": 13,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0642\u064e\u0627\u0644\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0646\u064e\u0627\u0642\u064e\u0629\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u0633\u064f\u0642\u0652\u064a\u0670\u0647\u064e\u0627\u06d7",
+        "kitabah": "\u0641\u064e\u0642\u064e\u0627\u0644\u064e \u0644\u064e\u0647\u064f\u0645\u0652 \u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064f \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0646\u064e\u0627\u0642\u064e\u0629\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u0650 \u0648\u064e\u0633\u064f\u0642\u0652\u064a\u0670\u0647\u064e\u0627\u06d7",
+        "latin": "Fa q\u0101la lahum ras\u016blull\u0101hi n\u0101qatall\u0101hi wa suqy\u0101h\u0101.",
+        "arabic_words": [
+            "\u0641\u064e\u0642\u064e\u0627\u0644\u064e",
+            "\u0644\u064e\u0647\u064f\u0645\u0652",
+            "\u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064f",
+            "\u0627\u0644\u0644\u0651\u0670\u0647\u0650",
+            "\u0646\u064e\u0627\u0642\u064e\u0629\u064e",
+            "\u0627\u0644\u0644\u0651\u0670\u0647\u0650",
+            "\u0648\u064e\u0633\u064f\u0642\u0652\u064a\u0670\u0647\u064e\u0627\u06d7"
+        ],
+        "translation": "Rasul Allah (Saleh) lalu berkata kepada mereka, \u201c(Biarkanlah) unta betina Allah ini beserta minumannya.\u201d",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6057,
+        "surah_id": 91,
+        "ayah": 14,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0643\u064e\u0630\u0651\u064e\u0628\u064f\u0648\u0652\u0647\u064f \u0641\u064e\u0639\u064e\u0642\u064e\u0631\u064f\u0648\u0652\u0647\u064e\u0627\u06d6 \u0641\u064e\u062f\u064e\u0645\u0652\u062f\u064e\u0645\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0631\u064e\u0628\u0651\u064f\u0647\u064f\u0645\u0652 \u0628\u0650\u0630\u064e\u0646\u0652\u06e2\u0628\u0650\u0647\u0650\u0645\u0652 \u0641\u064e\u0633\u064e\u0648\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "kitabah": "\u0641\u064e\u0643\u064e\u0630\u0651\u064e\u0628\u064f\u0648\u0652\u0647\u064f \u0641\u064e\u0639\u064e\u0642\u064e\u0631\u064f\u0648\u0652\u0647\u064e\u0627\u06d6 \u0641\u064e\u062f\u064e\u0645\u0652\u062f\u064e\u0645\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652 \u0631\u064e\u0628\u0651\u064f\u0647\u064f\u0645\u0652 \u0628\u0650\u0630\u064e\u0646\u0652\u06e2\u0628\u0650\u0647\u0650\u0645\u0652 \u0641\u064e\u0633\u064e\u0648\u0651\u0670\u0649\u0647\u064e\u0627\u06d6",
+        "latin": "Fa ka\u017c\u017cab\u016bhu fa \u2018aqar\u016bh\u0101 fa damdama \u2018alaihim rabbuhum bi\u017cambihim fa saww\u0101h\u0101.",
+        "arabic_words": [
+            "\u0641\u064e\u0643\u064e\u0630\u0651\u064e\u0628\u064f\u0648\u0652\u0647\u064f",
+            "\u0641\u064e\u0639\u064e\u0642\u064e\u0631\u064f\u0648\u0652\u0647\u064e\u0627\u06d6",
+            "\u0641\u064e\u062f\u064e\u0645\u0652\u062f\u064e\u0645\u064e",
+            "\u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652",
+            "\u0631\u064e\u0628\u0651\u064f\u0647\u064f\u0645\u0652",
+            "\u0628\u0650\u0630\u064e\u0646\u0652\u06e2\u0628\u0650\u0647\u0650\u0645\u0652",
+            "\u0641\u064e\u0633\u064e\u0648\u0651\u0670\u0649\u0647\u064e\u0627\u06d6"
+        ],
+        "translation": "Namun, mereka kemudian mendustakannya (Saleh) dan menyembelih (unta betina) itu. Maka, Tuhan membinasakan mereka karena dosa-dosanya, lalu meratakan mereka (dengan tanah).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6058,
+        "surah_id": 91,
+        "ayah": 15,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u062e\u064e\u0627\u0641\u064f \u0639\u064f\u0642\u0652\u0628\u0670\u0647\u064e\u0627 \u08d6",
+        "kitabah": "\u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u062e\u064e\u0627\u0641\u064f \u0639\u064f\u0642\u0652\u0628\u0670\u0647\u064e\u0627 \u08d6",
+        "latin": "Wa l\u0101 yakh\u0101fu \u2018uqb\u0101h\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0644\u064e\u0627",
+            "\u064a\u064e\u062e\u064e\u0627\u0641\u064f",
+            "\u0639\u064f\u0642\u0652\u0628\u0670\u0647\u064e\u0627 \u08d6"
+        ],
+        "translation": "Dia tidak takut terhadap akibatnya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "\u0627\u0644\u0634\u0651\u0645\u0633",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    }
+]

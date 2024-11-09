@@ -55,7 +55,8 @@ class ShowContentMaulid extends Page implements HasTable
                 TextColumn::make("arabic")
                     ->description(fn(MaulidContent $record): string => Str::limit($record->latin, 100, '...'))
                     ->formatStateUsing(fn(string $state): string => Str::limit($state, 100, "..."))
-                    ->label("Text"),
+                    ->label("Text")
+                    ->searchable(),
             ])
             ->actions([
                 EditAction::make('edit')

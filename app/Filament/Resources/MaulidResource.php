@@ -13,6 +13,7 @@ use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Columns\ToggleColumn;
+use Filament\Tables\Filters\SelectFilter;
 use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
@@ -38,7 +39,7 @@ class MaulidResource extends Resource
     {
         return $table
             ->columns([
-                TextColumn::make("name")->label("Latin Name"),
+                TextColumn::make("name")->label("Latin Name")->searchable(),
                 TextColumn::make("arabic")->label("Arabic Name"),
                 ToggleColumn::make("status")->afterStateUpdated(function ($state, $record) {
                     Notification::make()
@@ -48,7 +49,11 @@ class MaulidResource extends Resource
                 }),
             ])
             ->filters([
-                //
+                SelectFilter::make("status")
+                    ->options([
+                        1 => 'Active',
+                        0 => 'Non Active'
+                    ]),
             ])
             ->actions([
                 Tables\Actions\Action::make("Show")

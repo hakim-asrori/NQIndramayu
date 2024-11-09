@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\API\DoaCategoryController;
+use App\Http\Controllers\API\DoaController;
 use App\Http\Controllers\API\MaulidController;
 use App\Http\Controllers\API\SholawatController;
 use App\Http\Controllers\API\VideoController;
@@ -14,3 +16,5 @@ Route::get('/user', function (Request $request) {
 Route::get('videos', [VideoController::class, 'index']);
 Route::get('sholawats', [SholawatController::class, 'index']);
 Route::get('maulids', [MaulidController::class, 'index']);
+Route::get('doa', [DoaController::class, 'index']);
+Route::get('doa-categories', [DoaCategoryController::class, 'index']);

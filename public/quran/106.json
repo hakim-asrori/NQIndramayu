@@ -1,0 +1,128 @@
+[
+    {
+        "id": 6194,
+        "surah_id": 106,
+        "ayah": 1,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0644\u0650\u0627\u0650\u064a\u0652\u0644\u0670\u0641\u0650 \u0642\u064f\u0631\u064e\u064a\u0652\u0634\u064d\u06d9",
+        "kitabah": "\u0644\u0650\u0627\u0650\u064a\u0652\u0644\u0670\u0641\u0650 \u0642\u064f\u0631\u064e\u064a\u0652\u0634\u064d\u06d9",
+        "latin": "Li'\u012bl\u0101fi quraisy(in).",
+        "arabic_words": [
+            "\u0644\u0650\u0627\u0650\u064a\u0652\u0644\u0670\u0641\u0650",
+            "\u0642\u064f\u0631\u064e\u064a\u0652\u0634\u064d\u06d9"
+        ],
+        "translation": "Disebabkan oleh kebiasaan orang-orang Quraisy,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 106,
+            "arabic": " \u0642\u0631\u064a\u0634",
+            "latin": "Quraisy",
+            "transliteration": "Quraisy",
+            "translation": "Orang Quraisy",
+            "num_ayah": 4,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6195,
+        "surah_id": 106,
+        "ayah": 2,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0656\u0644\u0670\u0641\u0650\u0647\u0650\u0645\u0652 \u0631\u0650\u062d\u0652\u0644\u064e\u0629\u064e \u0627\u0644\u0634\u0651\u0650\u062a\u064e\u0627\u06e4\u0621\u0650 \u0648\u064e\u0627\u0644\u0635\u0651\u064e\u064a\u0652\u0641\u0650\u06da",
+        "kitabah": "\u0627\u0656\u0644\u0670\u0641\u0650\u0647\u0650\u0645\u0652 \u0631\u0650\u062d\u0652\u0644\u064e\u0629\u064e \u0627\u0644\u0634\u0651\u0650\u062a\u064e\u0627\u06e4\u0621\u0650 \u0648\u064e\u0627\u0644\u0635\u0651\u064e\u064a\u0652\u0641\u0650\u06da",
+        "latin": "\u00b4l\u0101fihim ri\u1e25latasy-syit\u0101'i wa\u1e63-\u1e63aif(i).",
+        "arabic_words": [
+            "\u0627\u0656\u0644\u0670\u0641\u0650\u0647\u0650\u0645\u0652",
+            "\u0631\u0650\u062d\u0652\u0644\u064e\u0629\u064e",
+            "\u0627\u0644\u0634\u0651\u0650\u062a\u064e\u0627\u06e4\u0621\u0650",
+            "\u0648\u064e\u0627\u0644\u0635\u0651\u064e\u064a\u0652\u0641\u0650\u06da"
+        ],
+        "translation": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas (sehingga mendapatkan banyak keuntungan),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 106,
+            "arabic": " \u0642\u0631\u064a\u0634",
+            "latin": "Quraisy",
+            "transliteration": "Quraisy",
+            "translation": "Orang Quraisy",
+            "num_ayah": 4,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6196,
+        "surah_id": 106,
+        "ayah": 3,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0644\u0652\u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u064e \u0647\u0670\u0630\u064e\u0627 \u0627\u0644\u0652\u0628\u064e\u064a\u0652\u062a\u0650\u06d9",
+        "kitabah": "\u0641\u064e\u0644\u0652\u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0652\u0627 \u0631\u064e\u0628\u0651\u064e \u0647\u0670\u0630\u064e\u0627 \u0627\u0644\u0652\u0628\u064e\u064a\u0652\u062a\u0650\u06d9",
+        "latin": "Falya\u2018bud\u016b rabba h\u0101\u017cal-bait(i).",
+        "arabic_words": [
+            "\u0641\u064e\u0644\u0652\u064a\u064e\u0639\u0652\u0628\u064f\u062f\u064f\u0648\u0652\u0627",
+            "\u0631\u064e\u0628\u0651\u064e",
+            "\u0647\u0670\u0630\u064e\u0627",
+            "\u0627\u0644\u0652\u0628\u064e\u064a\u0652\u062a\u0650\u06d9"
+        ],
+        "translation": "maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka\u2018bah)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 106,
+            "arabic": " \u0642\u0631\u064a\u0634",
+            "latin": "Quraisy",
+            "transliteration": "Quraisy",
+            "translation": "Orang Quraisy",
+            "num_ayah": 4,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6197,
+        "surah_id": 106,
+        "ayah": 4,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653 \u0627\u064e\u0637\u0652\u0639\u064e\u0645\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u062c\u064f\u0648\u0652\u0639\u064d \u06d5\u06d9 \u0648\u0651\u064e\u0627\u0670\u0645\u064e\u0646\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u062e\u064e\u0648\u0652\u0641\u064d \u08d6",
+        "kitabah": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653 \u0627\u064e\u0637\u0652\u0639\u064e\u0645\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u062c\u064f\u0648\u0652\u0639\u064d \u06d5\u06d9 \u0648\u0651\u064e\u0627\u0670\u0645\u064e\u0646\u064e\u0647\u064f\u0645\u0652 \u0645\u0651\u0650\u0646\u0652 \u062e\u064e\u0648\u0652\u0641\u064d \u08d6",
+        "latin": "Alla\u017c\u012b a\u1e6d\u2018amahum min j\u016b\u2018(in), wa \u0101manahum min khauf(in).",
+        "arabic_words": [
+            "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653",
+            "\u0627\u064e\u0637\u0652\u0639\u064e\u0645\u064e\u0647\u064f\u0645\u0652",
+            "\u0645\u0651\u0650\u0646\u0652",
+            "\u062c\u064f\u0648\u0652\u0639\u064d",
+            "\u06d5\u06d9",
+            "\u0648\u0651\u064e\u0627\u0670\u0645\u064e\u0646\u064e\u0647\u064f\u0645\u0652",
+            "\u0645\u0651\u0650\u0646\u0652",
+            "\u062e\u064e\u0648\u0652\u0641\u064d \u08d6"
+        ],
+        "translation": "yang telah memberi mereka makanan untuk menghilangkan lapar dan mengamankan mereka dari rasa takut.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 106,
+            "arabic": " \u0642\u0631\u064a\u0634",
+            "latin": "Quraisy",
+            "transliteration": "Quraisy",
+            "translation": "Orang Quraisy",
+            "num_ayah": 4,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": 5932,
+        "surah_id": 86,
+        "ayah": 1,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650 \u0648\u064e\u0627\u0644\u0637\u0651\u064e\u0627\u0631\u0650\u0642\u0650\u06d9 ",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650 \u0648\u064e\u0627\u0644\u0637\u0651\u064e\u0627\u0631\u0650\u0642\u0650\u06d9 ",
+        "latin": "Was-sam\u0101'i wa\u1e6d-\u1e6d\u0101riq(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650",
+            "\u0648\u064e\u0627\u0644\u0637\u0651\u064e\u0627\u0631\u0650\u0642\u0650\u06d9"
+        ],
+        "translation": "Demi langit dan yang datang pada malam hari.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5933,
+        "surah_id": 86,
+        "ayah": 2,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0627\u0644\u0637\u0651\u064e\u0627\u0631\u0650\u0642\u064f\u06d9 ",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0627\u0644\u0637\u0651\u064e\u0627\u0631\u0650\u0642\u064f\u06d9 ",
+        "latin": "Wa m\u0101 adr\u0101ka ma\u1e6d-\u1e6d\u0101riq(u).",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627\u0653",
+            "\u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e",
+            "\u0645\u064e\u0627",
+            "\u0627\u0644\u0637\u0651\u064e\u0627\u0631\u0650\u0642\u064f\u06d9"
+        ],
+        "translation": "Tahukah kamu apakah yang datang pada malam hari itu?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5934,
+        "surah_id": 86,
+        "ayah": 3,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0644\u0646\u0651\u064e\u062c\u0652\u0645\u064f \u0627\u0644\u062b\u0651\u064e\u0627\u0642\u0650\u0628\u064f\u06d9 ",
+        "kitabah": "\u0627\u0644\u0646\u0651\u064e\u062c\u0652\u0645\u064f \u0627\u0644\u062b\u0651\u064e\u0627\u0642\u0650\u0628\u064f\u06d9 ",
+        "latin": "An-najmu\u1e61-\u1e61\u0101qib(u).",
+        "arabic_words": [
+            "\u0627\u0644\u0646\u0651\u064e\u062c\u0652\u0645\u064f",
+            "\u0627\u0644\u062b\u0651\u064e\u0627\u0642\u0650\u0628\u064f\u06d9"
+        ],
+        "translation": "(Itulah) bintang yang bersinar tajam.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5935,
+        "surah_id": 86,
+        "ayah": 4,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0652 \u0643\u064f\u0644\u0651\u064f \u0646\u064e\u0641\u0652\u0633\u064d \u0644\u0651\u064e\u0645\u0651\u064e\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u064e\u0627 \u062d\u064e\u0627\u0641\u0650\u0638\u064c\u06d7 ",
+        "kitabah": "\u0627\u0650\u0646\u0652 \u0643\u064f\u0644\u0651\u064f \u0646\u064e\u0641\u0652\u0633\u064d \u0644\u0651\u064e\u0645\u0651\u064e\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u064e\u0627 \u062d\u064e\u0627\u0641\u0650\u0638\u064c\u06d7 ",
+        "latin": "In kullu nafsil lamm\u0101 \u2018alaih\u0101 \u1e25\u0101fi\u1e93(un).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0652",
+            "\u0643\u064f\u0644\u0651\u064f",
+            "\u0646\u064e\u0641\u0652\u0633\u064d",
+            "\u0644\u0651\u064e\u0645\u0651\u064e\u0627",
+            "\u0639\u064e\u0644\u064e\u064a\u0652\u0647\u064e\u0627",
+            "\u062d\u064e\u0627\u0641\u0650\u0638\u064c\u06d7"
+        ],
+        "translation": "Setiap orang pasti ada penjaganya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5936,
+        "surah_id": 86,
+        "ayah": 5,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0644\u0652\u064a\u064e\u0646\u0652\u0638\u064f\u0631\u0650 \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0645\u0650\u0645\u0651\u064e \u062e\u064f\u0644\u0650\u0642\u064e ",
+        "kitabah": "\u0641\u064e\u0644\u0652\u064a\u064e\u0646\u0652\u0638\u064f\u0631\u0650 \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0645\u0650\u0645\u0651\u064e \u062e\u064f\u0644\u0650\u0642\u064e ",
+        "latin": "Falyan\u1e93uril-ins\u0101nu mimma khuliq(a).",
+        "arabic_words": [
+            "\u0641\u064e\u0644\u0652\u064a\u064e\u0646\u0652\u0638\u064f\u0631\u0650",
+            "\u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f",
+            "\u0645\u0650\u0645\u0651\u064e",
+            "\u062e\u064f\u0644\u0650\u0642\u064e"
+        ],
+        "translation": " Hendaklah manusia memperhatikan dari apa dia diciptakan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5937,
+        "surah_id": 86,
+        "ayah": 6,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062e\u064f\u0644\u0650\u0642\u064e \u0645\u0650\u0646\u0652 \u0645\u0651\u064e\u0627\u06e4\u0621\u064d \u062f\u064e\u0627\u0641\u0650\u0642\u064d\u06d9 ",
+        "kitabah": "\u062e\u064f\u0644\u0650\u0642\u064e \u0645\u0650\u0646\u0652 \u0645\u0651\u064e\u0627\u06e4\u0621\u064d \u062f\u064e\u0627\u0641\u0650\u0642\u064d\u06d9 ",
+        "latin": "Khuliqa mim m\u0101'in d\u0101fiq(in).",
+        "arabic_words": [
+            "\u062e\u064f\u0644\u0650\u0642\u064e",
+            "\u0645\u0650\u0646\u0652",
+            "\u0645\u0651\u064e\u0627\u06e4\u0621\u064d",
+            "\u062f\u064e\u0627\u0641\u0650\u0642\u064d\u06d9"
+        ],
+        "translation": "Dia diciptakan dari air (mani) yang memancar,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5938,
+        "surah_id": 86,
+        "ayah": 7,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u064a\u0651\u064e\u062e\u0652\u0631\u064f\u062c\u064f \u0645\u0650\u0646\u0652\u06e2 \u0628\u064e\u064a\u0652\u0646\u0650 \u0627\u0644\u0635\u0651\u064f\u0644\u0652\u0628\u0650 \u0648\u064e\u0627\u0644\u062a\u0651\u064e\u0631\u064e\u0627\u06e4\u0649\u0655\u0650\u0628\u0650\u06d7 ",
+        "kitabah": "\u064a\u0651\u064e\u062e\u0652\u0631\u064f\u062c\u064f \u0645\u0650\u0646\u0652\u06e2 \u0628\u064e\u064a\u0652\u0646\u0650 \u0627\u0644\u0635\u0651\u064f\u0644\u0652\u0628\u0650 \u0648\u064e\u0627\u0644\u062a\u0651\u064e\u0631\u064e\u0627\u06e4\u0649\u0655\u0650\u0628\u0650\u06d7 ",
+        "latin": "Yakhruju mim baini\u1e63-\u1e63ulbi wat-tar\u0101'ib(i).",
+        "arabic_words": [
+            "\u064a\u0651\u064e\u062e\u0652\u0631\u064f\u062c\u064f",
+            "\u0645\u0650\u0646\u0652\u06e2",
+            "\u0628\u064e\u064a\u0652\u0646\u0650",
+            "\u0627\u0644\u0635\u0651\u064f\u0644\u0652\u0628\u0650",
+            "\u0648\u064e\u0627\u0644\u062a\u0651\u064e\u0631\u064e\u0627\u06e4\u0649\u0655\u0650\u0628\u0650\u06d7"
+        ],
+        "translation": "yang keluar dari antara tulang sulbi (punggung) dan tulang dada.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5939,
+        "surah_id": 86,
+        "ayah": 8,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0644\u0670\u0649 \u0631\u064e\u062c\u0652\u0639\u0650\u0647\u0656 \u0644\u064e\u0642\u064e\u0627\u062f\u0650\u0631\u064c\u06d7 ",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0644\u0670\u0649 \u0631\u064e\u062c\u0652\u0639\u0650\u0647\u0656 \u0644\u064e\u0642\u064e\u0627\u062f\u0650\u0631\u064c\u06d7 ",
+        "latin": "Innah\u016b \u2018al\u0101 raj\u2018ih\u012b laq\u0101dir(un).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e\u0647\u0657",
+            "\u0639\u064e\u0644\u0670\u0649",
+            "\u0631\u064e\u062c\u0652\u0639\u0650\u0647\u0656",
+            "\u0644\u064e\u0642\u064e\u0627\u062f\u0650\u0631\u064c\u06d7"
+        ],
+        "translation": "Sesungguhnya Dia (Allah) benar-benar kuasa untuk mengembalikannya (hidup setelah mati)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5940,
+        "surah_id": 86,
+        "ayah": 9,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u064a\u064e\u0648\u0652\u0645\u064e \u062a\u064f\u0628\u0652\u0644\u064e\u0649 \u0627\u0644\u0633\u0651\u064e\u0631\u064e\u0627\u06e4\u0649\u0655\u0650\u0631\u064f\u06d9 ",
+        "kitabah": "\u064a\u064e\u0648\u0652\u0645\u064e \u062a\u064f\u0628\u0652\u0644\u064e\u0649 \u0627\u0644\u0633\u0651\u064e\u0631\u064e\u0627\u06e4\u0649\u0655\u0650\u0631\u064f\u06d9 ",
+        "latin": "Yauma tublas-sar\u0101'ir(u).",
+        "arabic_words": [
+            "\u064a\u064e\u0648\u0652\u0645\u064e",
+            "\u062a\u064f\u0628\u0652\u0644\u064e\u0649",
+            "\u0627\u0644\u0633\u0651\u064e\u0631\u064e\u0627\u06e4\u0649\u0655\u0650\u0631\u064f\u06d9"
+        ],
+        "translation": "pada hari ditampakkan segala rahasia.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5941,
+        "surah_id": 86,
+        "ayah": 10,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0645\u064e\u0627 \u0644\u064e\u0647\u0657 \u0645\u0650\u0646\u0652 \u0642\u064f\u0648\u0651\u064e\u0629\u064d \u0648\u0651\u064e\u0644\u064e\u0627 \u0646\u064e\u0627\u0635\u0650\u0631\u064d\u06d7 ",
+        "kitabah": "\u0641\u064e\u0645\u064e\u0627 \u0644\u064e\u0647\u0657 \u0645\u0650\u0646\u0652 \u0642\u064f\u0648\u0651\u064e\u0629\u064d \u0648\u0651\u064e\u0644\u064e\u0627 \u0646\u064e\u0627\u0635\u0650\u0631\u064d\u06d7 ",
+        "latin": "Fam\u0101 lah\u016b min quwwatiw wa l\u0101 n\u0101\u1e63ir(in).",
+        "arabic_words": [
+            "\u0641\u064e\u0645\u064e\u0627",
+            "\u0644\u064e\u0647\u0657",
+            "\u0645\u0650\u0646\u0652",
+            "\u0642\u064f\u0648\u0651\u064e\u0629\u064d",
+            "\u0648\u0651\u064e\u0644\u064e\u0627",
+            "\u0646\u064e\u0627\u0635\u0650\u0631\u064d\u06d7"
+        ],
+        "translation": "Maka, baginya (manusia) tidak ada lagi kekuatan dan tidak (pula) ada penolong.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5942,
+        "surah_id": 86,
+        "ayah": 11,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650 \u0630\u064e\u0627\u062a\u0650 \u0627\u0644\u0631\u0651\u064e\u062c\u0652\u0639\u0650\u06d9 ",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650 \u0630\u064e\u0627\u062a\u0650 \u0627\u0644\u0631\u0651\u064e\u062c\u0652\u0639\u0650\u06d9 ",
+        "latin": "Was-sam\u0101'i \u017c\u0101tir-raj\u2018(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u0650",
+            "\u0630\u064e\u0627\u062a\u0650",
+            "\u0627\u0644\u0631\u0651\u064e\u062c\u0652\u0639\u0650\u06d9"
+        ],
+        "translation": "Demi langit yang mengandung hujan753)",
+        "footnotes": "753) Raj\u2018 berarti \u2018kembali berputar\u2019. Hujan dinamakan raj\u2018 karena berasal dari uap yang naik dari bumi ke udara, kemudian turun ke bumi, kemudian menguap kembali ke atas, lalu turun kembali ke bumi, dan begituseterusnya.",
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5943,
+        "surah_id": 86,
+        "ayah": 12,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0630\u064e\u0627\u062a\u0650 \u0627\u0644\u0635\u0651\u064e\u062f\u0652\u0639\u0650\u06d9 ",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650 \u0630\u064e\u0627\u062a\u0650 \u0627\u0644\u0635\u0651\u064e\u062f\u0652\u0639\u0650\u06d9 ",
+        "latin": "Wal-ar\u1e0di \u017c\u0101ti\u1e63-\u1e63ad\u2018(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u0650",
+            "\u0630\u064e\u0627\u062a\u0650",
+            "\u0627\u0644\u0635\u0651\u064e\u062f\u0652\u0639\u0650\u06d9"
+        ],
+        "translation": "dan bumi yang memiliki rekahan (tempat tumbuhnya pepohonan),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5944,
+        "surah_id": 86,
+        "ayah": 13,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u0642\u064e\u0648\u0652\u0644\u064c \u0641\u064e\u0635\u0652\u0644\u064c\u06d9 ",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u0642\u064e\u0648\u0652\u0644\u064c \u0641\u064e\u0635\u0652\u0644\u064c\u06d9 ",
+        "latin": "Innah\u016b laqaulun fa\u1e63l(un).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e\u0647\u0657",
+            "\u0644\u064e\u0642\u064e\u0648\u0652\u0644\u064c",
+            "\u0641\u064e\u0635\u0652\u0644\u064c\u06d9"
+        ],
+        "translation": "sesungguhnya (Al-Qur\u2019an) itu benar-benar firman pemisah (antara yang hak dan yang batil)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5945,
+        "surah_id": 86,
+        "ayah": 14,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u0651\u064e\u0645\u064e\u0627 \u0647\u064f\u0648\u064e \u0628\u0650\u0627\u0644\u0652\u0647\u064e\u0632\u0652\u0644\u0650\u06d7 ",
+        "kitabah": "\u0648\u0651\u064e\u0645\u064e\u0627 \u0647\u064f\u0648\u064e \u0628\u0650\u0627\u0644\u0652\u0647\u064e\u0632\u0652\u0644\u0650\u06d7 ",
+        "latin": "Wa m\u0101 huwa bil-hazl(i).",
+        "arabic_words": [
+            "\u0648\u0651\u064e\u0645\u064e\u0627",
+            "\u0647\u064f\u0648\u064e",
+            "\u0628\u0650\u0627\u0644\u0652\u0647\u064e\u0632\u0652\u0644\u0650\u06d7"
+        ],
+        "translation": "dan ia (Al-Qur\u2019an) sama sekali bukan perkataan senda gurau.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5946,
+        "surah_id": 86,
+        "ayah": 15,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u064a\u064e\u0643\u0650\u064a\u0652\u062f\u064f\u0648\u0652\u0646\u064e \u0643\u064e\u064a\u0652\u062f\u064b\u0627\u06d9 ",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652 \u064a\u064e\u0643\u0650\u064a\u0652\u062f\u064f\u0648\u0652\u0646\u064e \u0643\u064e\u064a\u0652\u062f\u064b\u0627\u06d9 ",
+        "latin": "Innahum yak\u012bd\u016bna kaid\u0101(n).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e\u0647\u064f\u0645\u0652",
+            "\u064a\u064e\u0643\u0650\u064a\u0652\u062f\u064f\u0648\u0652\u0646\u064e",
+            "\u0643\u064e\u064a\u0652\u062f\u064b\u0627\u06d9"
+        ],
+        "translation": "Sesungguhnya mereka (orang kafir) melakukan tipu daya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5947,
+        "surah_id": 86,
+        "ayah": 16,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u0651\u064e\u0627\u064e\u0643\u0650\u064a\u0652\u062f\u064f \u0643\u064e\u064a\u0652\u062f\u064b\u0627\u06d6 ",
+        "kitabah": "\u0648\u0651\u064e\u0627\u064e\u0643\u0650\u064a\u0652\u062f\u064f \u0643\u064e\u064a\u0652\u062f\u064b\u0627\u06d6 ",
+        "latin": "Wa ak\u012bdu kaid\u0101(n).",
+        "arabic_words": [
+            "\u0648\u0651\u064e\u0627\u064e\u0643\u0650\u064a\u0652\u062f\u064f",
+            "\u0643\u064e\u064a\u0652\u062f\u064b\u0627\u06d6"
+        ],
+        "translation": "Aku pun membalasnya dengan tipu daya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5948,
+        "surah_id": 86,
+        "ayah": 17,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0645\u064e\u0647\u0651\u0650\u0644\u0650 \u0627\u0644\u0652\u0643\u0670\u0641\u0650\u0631\u0650\u064a\u0652\u0646\u064e \u0627\u064e\u0645\u0652\u0647\u0650\u0644\u0652\u0647\u064f\u0645\u0652 \u0631\u064f\u0648\u064e\u064a\u0652\u062f\u064b\u0627 \u08d6 ",
+        "kitabah": "\u0641\u064e\u0645\u064e\u0647\u0651\u0650\u0644\u0650 \u0627\u0644\u0652\u0643\u0670\u0641\u0650\u0631\u0650\u064a\u0652\u0646\u064e \u0627\u064e\u0645\u0652\u0647\u0650\u0644\u0652\u0647\u064f\u0645\u0652 \u0631\u064f\u0648\u064e\u064a\u0652\u062f\u064b\u0627 \u08d6 ",
+        "latin": "Fa mahhilil-k\u0101fir\u012bna amhilhum ruwaid\u0101(n).",
+        "arabic_words": [
+            "\u0641\u064e\u0645\u064e\u0647\u0651\u0650\u0644\u0650",
+            "\u0627\u0644\u0652\u0643\u0670\u0641\u0650\u0631\u0650\u064a\u0652\u0646\u064e",
+            "\u0627\u064e\u0645\u0652\u0647\u0650\u0644\u0652\u0647\u064f\u0645\u0652",
+            "\u0631\u064f\u0648\u064e\u064a\u0652\u062f\u064b\u0627 \u08d6"
+        ],
+        "translation": "Maka, tangguhkanlah orang-orang kafir itu. Biarkanlah mereka sejenak (bersenang-senang).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "\u0627\u0644\u0637\u0651\u0627\u0631\u0642",
+            "latin": "A\u1e6d-\u1e6c\u0101riq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    }
+]

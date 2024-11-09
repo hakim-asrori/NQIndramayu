@@ -1,0 +1,335 @@
+[
+    {
+        "id": 6158,
+        "surah_id": 101,
+        "ayah": 1,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064e\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f\u06d9",
+        "kitabah": "\u0627\u064e\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f\u06d9",
+        "latin": "Al-q\u0101ri\u2018ah(tu).",
+        "arabic_words": [
+            "\u0627\u064e\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f\u06d9"
+        ],
+        "translation": "Al-Q\u0101ri\u2018ah (hari Kiamat yang menggetarkan).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6159,
+        "surah_id": 101,
+        "ayah": 2,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0645\u064e\u0627 \u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f \u06da",
+        "kitabah": "\u0645\u064e\u0627 \u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f \u06da",
+        "latin": "Mal-q\u0101ri\u2018ah(tu).",
+        "arabic_words": [
+            "\u0645\u064e\u0627",
+            "\u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f \u06da"
+        ],
+        "translation": "Apakah al-Q\u0101ri\u2018ah itu?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6160,
+        "surah_id": 101,
+        "ayah": 3,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f \u06d7",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f \u06d7",
+        "latin": "Wa m\u0101 adr\u0101ka mal-q\u0101ri\u2018ah(tu).",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627\u0653",
+            "\u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e",
+            "\u0645\u064e\u0627",
+            "\u0627\u0644\u0652\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u064f \u06d7"
+        ],
+        "translation": "Tahukah kamu apakah al-Q\u0101ri\u2018ah itu?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6161,
+        "surah_id": 101,
+        "ayah": 4,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u064a\u064e\u0648\u0652\u0645\u064e \u064a\u064e\u0643\u064f\u0648\u0652\u0646\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f \u0643\u064e\u0627\u0644\u0652\u0641\u064e\u0631\u064e\u0627\u0634\u0650 \u0627\u0644\u0652\u0645\u064e\u0628\u0652\u062b\u064f\u0648\u0652\u062b\u0650\u06d9",
+        "kitabah": "\u064a\u064e\u0648\u0652\u0645\u064e \u064a\u064e\u0643\u064f\u0648\u0652\u0646\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f \u0643\u064e\u0627\u0644\u0652\u0641\u064e\u0631\u064e\u0627\u0634\u0650 \u0627\u0644\u0652\u0645\u064e\u0628\u0652\u062b\u064f\u0648\u0652\u062b\u0650\u06d9",
+        "latin": "Yauma yak\u016bnun-n\u0101su kal-far\u0101syil-mab\u1e61\u016b\u1e61(i).",
+        "arabic_words": [
+            "\u064a\u064e\u0648\u0652\u0645\u064e",
+            "\u064a\u064e\u0643\u064f\u0648\u0652\u0646\u064f",
+            "\u0627\u0644\u0646\u0651\u064e\u0627\u0633\u064f",
+            "\u0643\u064e\u0627\u0644\u0652\u0641\u064e\u0631\u064e\u0627\u0634\u0650",
+            "\u0627\u0644\u0652\u0645\u064e\u0628\u0652\u062b\u064f\u0648\u0652\u062b\u0650\u06d9"
+        ],
+        "translation": "Pada hari itu manusia seperti laron yang beterbangan",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6162,
+        "surah_id": 101,
+        "ayah": 5,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u062a\u064e\u0643\u064f\u0648\u0652\u0646\u064f \u0627\u0644\u0652\u062c\u0650\u0628\u064e\u0627\u0644\u064f \u0643\u064e\u0627\u0644\u0652\u0639\u0650\u0647\u0652\u0646\u0650 \u0627\u0644\u0652\u0645\u064e\u0646\u0652\u0641\u064f\u0648\u0652\u0634\u0650\u06d7",
+        "kitabah": "\u0648\u064e\u062a\u064e\u0643\u064f\u0648\u0652\u0646\u064f \u0627\u0644\u0652\u062c\u0650\u0628\u064e\u0627\u0644\u064f \u0643\u064e\u0627\u0644\u0652\u0639\u0650\u0647\u0652\u0646\u0650 \u0627\u0644\u0652\u0645\u064e\u0646\u0652\u0641\u064f\u0648\u0652\u0634\u0650\u06d7",
+        "latin": "Wa tak\u016bnul-jib\u0101lu kal-\u2018ihnil-manf\u016bsy(i).",
+        "arabic_words": [
+            "\u0648\u064e\u062a\u064e\u0643\u064f\u0648\u0652\u0646\u064f",
+            "\u0627\u0644\u0652\u062c\u0650\u0628\u064e\u0627\u0644\u064f",
+            "\u0643\u064e\u0627\u0644\u0652\u0639\u0650\u0647\u0652\u0646\u0650",
+            "\u0627\u0644\u0652\u0645\u064e\u0646\u0652\u0641\u064f\u0648\u0652\u0634\u0650\u06d7"
+        ],
+        "translation": "dan gunung-gunung seperti bulu yang berhamburan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6163,
+        "surah_id": 101,
+        "ayah": 6,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u062b\u064e\u0642\u064f\u0644\u064e\u062a\u0652 \u0645\u064e\u0648\u064e\u0627\u0632\u0650\u064a\u0652\u0646\u064f\u0647\u0657\u06d9 ",
+        "kitabah": "\u0641\u064e\u0627\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u062b\u064e\u0642\u064f\u0644\u064e\u062a\u0652 \u0645\u064e\u0648\u064e\u0627\u0632\u0650\u064a\u0652\u0646\u064f\u0647\u0657\u06d9 ",
+        "latin": "Fa amm\u0101 man \u1e61aqulat maw\u0101z\u012bnuh(\u016b).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u064e\u0645\u0651\u064e\u0627",
+            "\u0645\u064e\u0646\u0652",
+            "\u062b\u064e\u0642\u064f\u0644\u064e\u062a\u0652",
+            "\u0645\u064e\u0648\u064e\u0627\u0632\u0650\u064a\u0646\u064f\u0647\u0657\u06d9"
+        ],
+        "translation": "Siapa yang berat timbangan (kebaikan)-nya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6164,
+        "surah_id": 101,
+        "ayah": 7,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0647\u064f\u0648\u064e \u0641\u0650\u064a\u0652 \u0639\u0650\u064a\u0652\u0634\u064e\u0629\u064d \u0631\u0651\u064e\u0627\u0636\u0650\u064a\u064e\u0629\u064d\u06d7",
+        "kitabah": "\u0641\u064e\u0647\u064f\u0648\u064e \u0641\u0650\u064a\u0652 \u0639\u0650\u064a\u0652\u0634\u064e\u0629\u064d \u0631\u0651\u064e\u0627\u0636\u0650\u064a\u064e\u0629\u064d\u06d7",
+        "latin": "Fa huwa f\u012b \u2018\u012bsyatir r\u0101\u1e0diyah(tin).",
+        "arabic_words": [
+            "\u0641\u064e\u0647\u064f\u0648\u064e",
+            "\u0641\u0650\u064a\u0652",
+            "\u0639\u0650\u064a\u0652\u0634\u064e\u0629\u064d",
+            "\u0631\u0651\u064e\u0627\u0636\u0650\u064a\u064e\u0629\u064d\u06d7"
+        ],
+        "translation": "dia berada dalam kehidupan yang menyenangkan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6165,
+        "surah_id": 101,
+        "ayah": 8,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u062e\u064e\u0641\u0651\u064e\u062a\u0652 \u0645\u064e\u0648\u064e\u0627\u0632\u0650\u064a\u0652\u0646\u064f\u0647\u0657\u06d9",
+        "kitabah": "\u0648\u064e\u0627\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u062e\u064e\u0641\u0651\u064e\u062a\u0652 \u0645\u064e\u0648\u064e\u0627\u0632\u0650\u064a\u0652\u0646\u064f\u0647\u0657\u06d9",
+        "latin": "Wa amm\u0101 man khaffat maw\u0101z\u012bnuh(\u016b).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u064e\u0645\u0651\u064e\u0627",
+            "\u0645\u064e\u0646\u0652",
+            "\u062e\u064e\u0641\u0651\u064e\u062a\u0652",
+            "\u0645\u064e\u0648\u064e\u0627\u0632\u0650\u064a\u0652\u0646\u064f\u0647\u0657\u06d9"
+        ],
+        "translation": "Adapun orang yang ringan timbangan (kebaikan)-nya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6166,
+        "surah_id": 101,
+        "ayah": 9,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u064f\u0645\u0651\u064f\u0647\u0657 \u0647\u064e\u0627\u0648\u0650\u064a\u064e\u0629\u064c  \u06d7",
+        "kitabah": "\u0641\u064e\u0627\u064f\u0645\u0651\u064f\u0647\u0657 \u0647\u064e\u0627\u0648\u0650\u064a\u064e\u0629\u064c  \u06d7",
+        "latin": "Fa ummuh\u016b h\u0101wiyah(tun).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u064f\u0645\u0651\u064f\u0647\u0657",
+            "\u0647\u064e\u0627\u0648\u0650\u064a\u064e\u0629\u064c \u06d7"
+        ],
+        "translation": "tempat kembalinya adalah (neraka) Hawiyah.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6167,
+        "surah_id": 101,
+        "ayah": 10,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0647\u0650\u064a\u064e\u0647\u0652\u06d7",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0647\u0650\u064a\u064e\u0647\u0652\u06d7",
+        "latin": "Wa m\u0101 adr\u0101ka m\u0101 hiyah.",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627\u0653",
+            "\u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e",
+            "\u0645\u064e\u0627",
+            "\u0647\u0650\u064a\u064e\u0647\u0652\u06d7"
+        ],
+        "translation": "Tahukah kamu apakah (neraka Hawiyah) itu?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6168,
+        "surah_id": 101,
+        "ayah": 11,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0646\u064e\u0627\u0631\u064c \u062d\u064e\u0627\u0645\u0650\u064a\u064e\u0629\u064c \u08d6",
+        "kitabah": "\u0646\u064e\u0627\u0631\u064c \u062d\u064e\u0627\u0645\u0650\u064a\u064e\u0629\u064c \u08d6",
+        "latin": "N\u0101run \u1e25\u0101miyah(tun).",
+        "arabic_words": [
+            "\u0646\u064e\u0627\u0631\u064c",
+            "\u062d\u064e\u0627\u0645\u0650\u064a\u064e\u0629\u064c \u08d6"
+        ],
+        "translation": "(Ia adalah) api yang sangat panas.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 101,
+            "arabic": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+            "latin": "Al-Q\u0101ri\u2018ah",
+            "transliteration": "Al-Qari\u2018ah",
+            "translation": "Al-Q\u0101ri\u2018ah",
+            "num_ayah": 11,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    }
+]

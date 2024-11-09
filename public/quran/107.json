@@ -1,0 +1,216 @@
+[
+    {
+        "id": 6198,
+        "surah_id": 107,
+        "ayah": 1,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064e\u0631\u064e\u0621\u064e\u064a\u0652\u062a\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u064a\u064f\u0643\u064e\u0630\u0651\u0650\u0628\u064f \u0628\u0650\u0627\u0644\u062f\u0651\u0650\u064a\u0652\u0646\u0650\u06d7",
+        "kitabah": "\u0627\u064e\u0631\u064e\u0621\u064e\u064a\u0652\u062a\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u064a\u064f\u0643\u064e\u0630\u0651\u0650\u0628\u064f \u0628\u0650\u0627\u0644\u062f\u0651\u0650\u064a\u0652\u0646\u0650\u06d7",
+        "latin": "Ara'aital-la\u017c\u012b yuka\u017c\u017cibu bid-d\u012bn(i).",
+        "arabic_words": [
+            "\u0627\u064e\u0631\u064e\u0621\u064e\u064a\u0652\u062a\u064e",
+            "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652",
+            "\u064a\u064f\u0643\u064e\u0630\u0651\u0650\u0628\u064f",
+            "\u0628\u0650\u0627\u0644\u062f\u0651\u0650\u064a\u0652\u0646\u0650\u06d7"
+        ],
+        "translation": "Tahukah kamu (orang) yang mendustakan agama?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " \u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+            "latin": "Al-M\u0101\u2018\u016bn",
+            "transliteration": "Al-Ma\u2018un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6199,
+        "surah_id": 107,
+        "ayah": 2,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0630\u0670\u0644\u0650\u0643\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u064a\u064e\u062f\u064f\u0639\u0651\u064f \u0627\u0644\u0652\u064a\u064e\u062a\u0650\u064a\u0652\u0645\u064e\u06d9",
+        "kitabah": "\u0641\u064e\u0630\u0670\u0644\u0650\u0643\u064e \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652 \u064a\u064e\u062f\u064f\u0639\u0651\u064f \u0627\u0644\u0652\u064a\u064e\u062a\u0650\u064a\u0652\u0645\u064e\u06d9",
+        "latin": "Fa \u017c\u0101likal-la\u017c\u012b yadu\u2018\u2018ul-yat\u012bm(a).",
+        "arabic_words": [
+            "\u0641\u064e\u0630\u0670\u0644\u0650\u0643\u064e",
+            "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652",
+            "\u064a\u064e\u062f\u064f\u0639\u0651\u064f",
+            "\u0627\u0644\u0652\u064a\u064e\u062a\u0650\u064a\u0652\u0645\u064e\u06d9"
+        ],
+        "translation": "Itulah orang yang menghardik anak yatim",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " \u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+            "latin": "Al-M\u0101\u2018\u016bn",
+            "transliteration": "Al-Ma\u2018un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6200,
+        "surah_id": 107,
+        "ayah": 3,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u062d\u064f\u0636\u0651\u064f \u0639\u064e\u0644\u0670\u0649 \u0637\u064e\u0639\u064e\u0627\u0645\u0650 \u0627\u0644\u0652\u0645\u0650\u0633\u0652\u0643\u0650\u064a\u0652\u0646\u0650\u06d7",
+        "kitabah": "\u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u062d\u064f\u0636\u0651\u064f \u0639\u064e\u0644\u0670\u0649 \u0637\u064e\u0639\u064e\u0627\u0645\u0650 \u0627\u0644\u0652\u0645\u0650\u0633\u0652\u0643\u0650\u064a\u0652\u0646\u0650\u06d7",
+        "latin": "Wa l\u0101 ya\u1e25u\u1e0d\u1e0du \u2018al\u0101 \u1e6da\u2018\u0101mil-misk\u012bn(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0644\u064e\u0627",
+            "\u064a\u064e\u062d\u064f\u0636\u0651\u064f",
+            "\u0639\u064e\u0644\u0670\u0649",
+            "\u0637\u064e\u0639\u064e\u0627\u0645\u0650",
+            "\u0627\u0644\u0652\u0645\u0650\u0633\u0652\u0643\u0650\u064a\u0652\u0646\u0650\u06d7"
+        ],
+        "translation": "dan tidak menganjurkan untuk memberi makan orang miskin.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " \u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+            "latin": "Al-M\u0101\u2018\u016bn",
+            "transliteration": "Al-Ma\u2018un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6201,
+        "surah_id": 107,
+        "ayah": 4,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0648\u064e\u064a\u0652\u0644\u064c \u0644\u0651\u0650\u0644\u0652\u0645\u064f\u0635\u064e\u0644\u0651\u0650\u064a\u0652\u0646\u064e\u06d9",
+        "kitabah": "\u0641\u064e\u0648\u064e\u064a\u0652\u0644\u064c \u0644\u0651\u0650\u0644\u0652\u0645\u064f\u0635\u064e\u0644\u0651\u0650\u064a\u0652\u0646\u064e\u06d9",
+        "latin": "Fawailul lil-mu\u1e63all\u012bn(a).",
+        "arabic_words": [
+            "\u0641\u064e\u0648\u064e\u064a\u0652\u0644\u064c",
+            "\u0644\u0651\u0650\u0644\u0652\u0645\u064f\u0635\u064e\u0644\u0651\u0650\u064a\u0652\u0646\u064e\u06d9"
+        ],
+        "translation": "Celakalah orang-orang yang melaksanakan salat,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " \u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+            "latin": "Al-M\u0101\u2018\u016bn",
+            "transliteration": "Al-Ma\u2018un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6202,
+        "surah_id": 107,
+        "ayah": 5,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0647\u064f\u0645\u0652 \u0639\u064e\u0646\u0652 \u0635\u064e\u0644\u064e\u0627\u062a\u0650\u0647\u0650\u0645\u0652 \u0633\u064e\u0627\u0647\u064f\u0648\u0652\u0646\u064e\u06d9",
+        "kitabah": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0647\u064f\u0645\u0652 \u0639\u064e\u0646\u0652 \u0635\u064e\u0644\u064e\u0627\u062a\u0650\u0647\u0650\u0645\u0652 \u0633\u064e\u0627\u0647\u064f\u0648\u0652\u0646\u064e\u06d9",
+        "latin": "Alla\u017c\u012bna hum \u2018an \u1e63al\u0101tihim s\u0101h\u016bn(a).",
+        "arabic_words": [
+            "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e",
+            "\u0647\u064f\u0645\u0652",
+            "\u0639\u064e\u0646\u0652",
+            "\u0635\u064e\u0644\u064e\u0627\u062a\u0650\u0647\u0650\u0645\u0652",
+            "\u0633\u064e\u0627\u0647\u064f\u0648\u0652\u0646\u064e\u06d9"
+        ],
+        "translation": "(yaitu) yang lalai terhadap salatnya,761)",
+        "footnotes": "761) Melalaikan salat mencakup lalai akan waktu dan tujuan salat serta bermalasan dalam mengerjakannya.",
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " \u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+            "latin": "Al-M\u0101\u2018\u016bn",
+            "transliteration": "Al-Ma\u2018un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6203,
+        "surah_id": 107,
+        "ayah": 6,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0647\u064f\u0645\u0652 \u064a\u064f\u0631\u064e\u0627\u06e4\u0621\u064f\u0648\u0652\u0646\u064e\u06d9",
+        "kitabah": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0647\u064f\u0645\u0652 \u064a\u064f\u0631\u064e\u0627\u06e4\u0621\u064f\u0648\u0652\u0646\u064e\u06d9",
+        "latin": "Alla\u017c\u012bna hum yur\u0101'\u016bn(a).",
+        "arabic_words": [
+            "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e",
+            "\u0647\u064f\u0645\u0652",
+            "\u064a\u064f\u0631\u064e\u0627\u06e4\u0621\u064f\u0648\u0652\u0646\u064e\u06d9"
+        ],
+        "translation": "yang berbuat riya,762)",
+        "footnotes": "762) Riya adalah melakukan sesuatu perbuatan tidak untuk mencari keridaan Allah, tetapi untuk mencari pujian atau kemasyhuran di masyarakat.",
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " \u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+            "latin": "Al-M\u0101\u2018\u016bn",
+            "transliteration": "Al-Ma\u2018un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6204,
+        "surah_id": 107,
+        "ayah": 7,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u064a\u064e\u0645\u0652\u0646\u064e\u0639\u064f\u0648\u0652\u0646\u064e \u0627\u0644\u0652\u0645\u064e\u0627\u0639\u064f\u0648\u0652\u0646\u064e \u08d6",
+        "kitabah": "\u0648\u064e\u064a\u064e\u0645\u0652\u0646\u064e\u0639\u064f\u0648\u0652\u0646\u064e \u0627\u0644\u0652\u0645\u064e\u0627\u0639\u064f\u0648\u0652\u0646\u064e \u08d6",
+        "latin": "Wa yamna\u2018\u016bnal-m\u0101\u2018\u016bn(a).",
+        "arabic_words": [
+            "\u0648\u064e\u064a\u064e\u0645\u0652\u0646\u064e\u0639\u064f\u0648\u0652\u0646\u064e",
+            "\u0627\u0644\u0652\u0645\u064e\u0627\u0639\u064f\u0648\u0652\u0646\u064e \u08d6"
+        ],
+        "translation": "dan enggan (memberi) bantuan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " \u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+            "latin": "Al-M\u0101\u2018\u016bn",
+            "transliteration": "Al-Ma\u2018un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    }
+]

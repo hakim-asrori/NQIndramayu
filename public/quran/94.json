@@ -1,0 +1,245 @@
+[
+    {
+        "id": 6091,
+        "surah_id": 94,
+        "ayah": 1,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064e\u0644\u064e\u0645\u0652 \u0646\u064e\u0634\u0652\u0631\u064e\u062d\u0652 \u0644\u064e\u0643\u064e \u0635\u064e\u062f\u0652\u0631\u064e\u0643\u064e\u06d9",
+        "kitabah": "\u0627\u064e\u0644\u064e\u0645\u0652 \u0646\u064e\u0634\u0652\u0631\u064e\u062d\u0652 \u0644\u064e\u0643\u064e \u0635\u064e\u062f\u0652\u0631\u064e\u0643\u064e\u06d9",
+        "latin": "Alam nasyra\u1e25 laka \u1e63adrak(a).",
+        "arabic_words": [
+            "\u0627\u064e\u0644\u064e\u0645\u0652",
+            "\u0646\u064e\u0634\u0652\u0631\u064e\u062d\u0652",
+            "\u0644\u064e\u0643\u064e",
+            "\u0635\u064e\u062f\u0652\u0631\u064e\u0643\u064e\u06d9"
+        ],
+        "translation": "Bukankah Kami telah melapangkan dadamu (Nabi Muhammad),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "\u0627\u0644\u0634\u0651\u0631\u062d",
+            "latin": "Asy-Syar\u1e25",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6092,
+        "surah_id": 94,
+        "ayah": 2,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0648\u064e\u0636\u064e\u0639\u0652\u0646\u064e\u0627 \u0639\u064e\u0646\u0652\u0643\u064e \u0648\u0650\u0632\u0652\u0631\u064e\u0643\u064e\u06d9",
+        "kitabah": "\u0648\u064e\u0648\u064e\u0636\u064e\u0639\u0652\u0646\u064e\u0627 \u0639\u064e\u0646\u0652\u0643\u064e \u0648\u0650\u0632\u0652\u0631\u064e\u0643\u064e\u06d9",
+        "latin": "Wa wa\u1e0da\u2018n\u0101 \u2018anka wizrak(a).",
+        "arabic_words": [
+            "\u0648\u064e\u0648\u064e\u0636\u064e\u0639\u0652\u0646\u064e\u0627",
+            "\u0639\u064e\u0646\u0652\u0643\u064e",
+            "\u0648\u0650\u0632\u0652\u0631\u064e\u0643\u064e\u06d9"
+        ],
+        "translation": "meringankan beban (tugas-tugas kenabian) darimu",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "\u0627\u0644\u0634\u0651\u0631\u062d",
+            "latin": "Asy-Syar\u1e25",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6093,
+        "surah_id": 94,
+        "ayah": 3,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653 \u0627\u064e\u0646\u0652\u0642\u064e\u0636\u064e \u0638\u064e\u0647\u0652\u0631\u064e\u0643\u064e\u06d9",
+        "kitabah": "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653 \u0627\u064e\u0646\u0652\u0642\u064e\u0636\u064e \u0638\u064e\u0647\u0652\u0631\u064e\u0643\u064e\u06d9",
+        "latin": "Alla\u017c\u012b anqa\u1e0da \u1e93ahrak(a).",
+        "arabic_words": [
+            "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0653",
+            "\u0627\u064e\u0646\u0652\u0642\u064e\u0636\u064e",
+            "\u0638\u064e\u0647\u0652\u0631\u064e\u0643\u064e\u06d9"
+        ],
+        "translation": "yang memberatkan punggungmu,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "\u0627\u0644\u0634\u0651\u0631\u062d",
+            "latin": "Asy-Syar\u1e25",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6094,
+        "surah_id": 94,
+        "ayah": 4,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0631\u064e\u0641\u064e\u0639\u0652\u0646\u064e\u0627 \u0644\u064e\u0643\u064e \u0630\u0650\u0643\u0652\u0631\u064e\u0643\u064e\u06d7",
+        "kitabah": "\u0648\u064e\u0631\u064e\u0641\u064e\u0639\u0652\u0646\u064e\u0627 \u0644\u064e\u0643\u064e \u0630\u0650\u0643\u0652\u0631\u064e\u0643\u064e\u06d7",
+        "latin": "Wa rafa\u2018n\u0101 laka \u017cikrak(a).",
+        "arabic_words": [
+            "\u0648\u064e\u0631\u064e\u0641\u064e\u0639\u0652\u0646\u064e\u0627",
+            "\u0644\u064e\u0643\u064e",
+            "\u0630\u0650\u0643\u0652\u0631\u064e\u0643\u064e\u06d7"
+        ],
+        "translation": "dan meninggikan (derajat)-mu (dengan selalu) menyebut-nyebut (nama)-mu?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "\u0627\u0644\u0634\u0651\u0631\u062d",
+            "latin": "Asy-Syar\u1e25",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6095,
+        "surah_id": 94,
+        "ayah": 5,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u0650\u0646\u0651\u064e \u0645\u064e\u0639\u064e \u0627\u0644\u0652\u0639\u064f\u0633\u0652\u0631\u0650 \u064a\u064f\u0633\u0652\u0631\u064b\u0627\u06d9",
+        "kitabah": "\u0641\u064e\u0627\u0650\u0646\u0651\u064e \u0645\u064e\u0639\u064e \u0627\u0644\u0652\u0639\u064f\u0633\u0652\u0631\u0650 \u064a\u064f\u0633\u0652\u0631\u064b\u0627\u06d9",
+        "latin": "Fa'inna ma\u2018al-\u2018usri yusr\u0101(n).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u0650\u0646\u0651\u064e",
+            "\u0645\u064e\u0639\u064e",
+            "\u0627\u0644\u0652\u0639\u064f\u0633\u0652\u0631\u0650",
+            "\u064a\u064f\u0633\u0652\u0631\u064b\u0627\u06d9"
+        ],
+        "translation": "Maka, sesungguhnya beserta kesulitan ada kemudahan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "\u0627\u0644\u0634\u0651\u0631\u062d",
+            "latin": "Asy-Syar\u1e25",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6096,
+        "surah_id": 94,
+        "ayah": 6,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e \u0645\u064e\u0639\u064e \u0627\u0644\u0652\u0639\u064f\u0633\u0652\u0631\u0650 \u064a\u064f\u0633\u0652\u0631\u064b\u0627\u06d7",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e \u0645\u064e\u0639\u064e \u0627\u0644\u0652\u0639\u064f\u0633\u0652\u0631\u0650 \u064a\u064f\u0633\u0652\u0631\u064b\u0627\u06d7",
+        "latin": "Inna ma\u2018al-\u2018usri yusr\u0101(n).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e",
+            "\u0645\u064e\u0639\u064e",
+            "\u0627\u0644\u0652\u0639\u064f\u0633\u0652\u0631\u0650",
+            "\u064a\u064f\u0633\u0652\u0631\u064b\u0627\u06d7"
+        ],
+        "translation": "Sesungguhnya beserta kesulitan ada kemudahan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "\u0627\u0644\u0634\u0651\u0631\u062d",
+            "latin": "Asy-Syar\u1e25",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6097,
+        "surah_id": 94,
+        "ayah": 7,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u0650\u0630\u064e\u0627 \u0641\u064e\u0631\u064e\u063a\u0652\u062a\u064e \u0641\u064e\u0627\u0646\u0652\u0635\u064e\u0628\u0652\u06d9",
+        "kitabah": "\u0641\u064e\u0627\u0650\u0630\u064e\u0627 \u0641\u064e\u0631\u064e\u063a\u0652\u062a\u064e \u0641\u064e\u0627\u0646\u0652\u0635\u064e\u0628\u0652\u06d9",
+        "latin": "Fa i\u017c\u0101 faragta fan\u1e63ab.",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0641\u064e\u0631\u064e\u063a\u0652\u062a\u064e",
+            "\u0641\u064e\u0627\u0646\u0652\u0635\u064e\u0628\u0652\u06d9"
+        ],
+        "translation": "Apabila engkau telah selesai (dengan suatu kebajikan), teruslah bekerja keras (untuk kebajikan yang lain)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "\u0627\u0644\u0634\u0651\u0631\u062d",
+            "latin": "Asy-Syar\u1e25",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6098,
+        "surah_id": 94,
+        "ayah": 8,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0644\u0670\u0649 \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0641\u064e\u0627\u0631\u0652\u063a\u064e\u0628\u0652 \u08d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0644\u0670\u0649 \u0631\u064e\u0628\u0651\u0650\u0643\u064e \u0641\u064e\u0627\u0631\u0652\u063a\u064e\u0628\u0652 \u08d6",
+        "latin": "Wa il\u0101 rabbika fargab.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0644\u0670\u0649",
+            "\u0631\u064e\u0628\u0651\u0650\u0643\u064e",
+            "\u0641\u064e\u0627\u0631\u0652\u063a\u064e\u0628\u0652 \u08d6"
+        ],
+        "translation": "dan hanya kepada Tuhanmu berharaplah!",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "\u0627\u0644\u0634\u0651\u0631\u062d",
+            "latin": "Asy-Syar\u1e25",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    }
+]

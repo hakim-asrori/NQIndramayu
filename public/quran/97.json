@@ -1,0 +1,168 @@
+[
+    {
+        "id": 6126,
+        "surah_id": 97,
+        "ayah": 1,
+        "page": 598,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u0632\u064e\u0644\u0652\u0646\u0670\u0647\u064f \u0641\u0650\u064a\u0652 \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u0650 \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650 ",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e\u0627\u0653 \u0627\u064e\u0646\u0652\u0632\u064e\u0644\u0652\u0646\u0670\u0647\u064f \u0641\u0650\u064a\u0652 \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u0650 \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650 ",
+        "latin": "Inn\u0101 anzaln\u0101hu f\u012b lailatil-qadr(i).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e\u0627\u0653",
+            "\u0627\u064e\u0646\u0652\u0632\u064e\u0644\u0652\u0646\u0670\u0647\u064f",
+            "\u0641\u0650\u064a\u0652",
+            "\u0644\u064e\u064a\u0652\u0644\u064e\u0629\u0650",
+            "\u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650"
+        ],
+        "translation": "Sesungguhnya Kami telah menurunkannya (Al-Qur\u2019an) pada Lailatulqadar.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 97,
+            "arabic": " \u0627\u0644\u0642\u062f\u0631",
+            "latin": "Al-Qadr",
+            "transliteration": "Al-Qadr",
+            "translation": "Al-Qadar",
+            "num_ayah": 5,
+            "page": 598,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6127,
+        "surah_id": 97,
+        "ayah": 2,
+        "page": 598,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650\u06d7",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627\u0653 \u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e \u0645\u064e\u0627 \u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650\u06d7",
+        "latin": "Wa m\u0101 adr\u0101ka m\u0101 lailatul-qadr(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627\u0653",
+            "\u0627\u064e\u062f\u0652\u0631\u0670\u0649\u0643\u064e",
+            "\u0645\u064e\u0627",
+            "\u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f",
+            "\u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650\u06d7"
+        ],
+        "translation": "Tahukah kamu apakah Lailatulqadar itu?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 97,
+            "arabic": " \u0627\u0644\u0642\u062f\u0631",
+            "latin": "Al-Qadr",
+            "transliteration": "Al-Qadr",
+            "translation": "Al-Qadar",
+            "num_ayah": 5,
+            "page": 598,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6128,
+        "surah_id": 97,
+        "ayah": 3,
+        "page": 598,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650 \u06d5\u06d9 \u062e\u064e\u064a\u0652\u0631\u064c \u0645\u0651\u0650\u0646\u0652 \u0627\u064e\u0644\u0652\u0641\u0650 \u0634\u064e\u0647\u0652\u0631\u064d\u06d7",
+        "kitabah": "\u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f \u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650 \u06d5\u06d9 \u062e\u064e\u064a\u0652\u0631\u064c \u0645\u0651\u0650\u0646\u0652 \u0627\u064e\u0644\u0652\u0641\u0650 \u0634\u064e\u0647\u0652\u0631\u064d\u06d7",
+        "latin": "Lailatul-qadri khairum min alfi syahr(in).",
+        "arabic_words": [
+            "\u0644\u064e\u064a\u0652\u0644\u064e\u0629\u064f",
+            "\u0627\u0644\u0652\u0642\u064e\u062f\u0652\u0631\u0650",
+            "\u06d5\u06d9",
+            "\u062e\u064e\u064a\u0652\u0631\u064c",
+            "\u0645\u0651\u0650\u0646\u0652",
+            "\u0627\u064e\u0644\u0652\u0641\u0650",
+            "\u0634\u064e\u0647\u0652\u0631\u064d\u06d7"
+        ],
+        "translation": "Lailatulqadar itu lebih baik daripada seribu bulan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 97,
+            "arabic": " \u0627\u0644\u0642\u062f\u0631",
+            "latin": "Al-Qadr",
+            "transliteration": "Al-Qadr",
+            "translation": "Al-Qadar",
+            "num_ayah": 5,
+            "page": 598,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6129,
+        "surah_id": 97,
+        "ayah": 4,
+        "page": 598,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062a\u064e\u0646\u064e\u0632\u0651\u064e\u0644\u064f \u0627\u0644\u0652\u0645\u064e\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e\u0629\u064f \u0648\u064e\u0627\u0644\u0631\u0651\u064f\u0648\u0652\u062d\u064f \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0628\u0650\u0627\u0650\u0630\u0652\u0646\u0650 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652\u06da \u0645\u0650\u0646\u0652 \u0643\u064f\u0644\u0651\u0650 \u0627\u064e\u0645\u0652\u0631\u064d\u06db",
+        "kitabah": "\u062a\u064e\u0646\u064e\u0632\u0651\u064e\u0644\u064f \u0627\u0644\u0652\u0645\u064e\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e\u0629\u064f \u0648\u064e\u0627\u0644\u0631\u0651\u064f\u0648\u0652\u062d\u064f \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u0628\u0650\u0627\u0650\u0630\u0652\u0646\u0650 \u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652\u06da \u0645\u0650\u0646\u0652 \u0643\u064f\u0644\u0651\u0650 \u0627\u064e\u0645\u0652\u0631\u064d\u06db",
+        "latin": "Tanazzalul-mal\u0101'ikatu war r\u016b\u1e25u f\u012bh\u0101 bi'i\u017cni rabbihim min kulli amr(in).",
+        "arabic_words": [
+            "\u062a\u064e\u0646\u064e\u0632\u0651\u064e\u0644\u064f",
+            "\u0627\u0644\u0652\u0645\u064e\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e\u0629\u064f",
+            "\u0648\u064e\u0627\u0644\u0631\u0651\u064f\u0648\u0652\u062d\u064f",
+            "\u0641\u0650\u064a\u0652\u0647\u064e\u0627",
+            "\u0628\u0650\u0627\u0650\u0630\u0652\u0646\u0650",
+            "\u0631\u064e\u0628\u0651\u0650\u0647\u0650\u0645\u0652\u06da",
+            "\u0645\u0650\u0646\u0652",
+            "\u0643\u064f\u0644\u0651\u0650",
+            "\u0627\u064e\u0645\u0652\u0631\u064d\u06db"
+        ],
+        "translation": "Pada malam itu turun para malaikat dan R\u016b\u1e25 (Jibril) dengan izin Tuhannya untuk mengatur semua urusan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 97,
+            "arabic": " \u0627\u0644\u0642\u062f\u0631",
+            "latin": "Al-Qadr",
+            "transliteration": "Al-Qadr",
+            "translation": "Al-Qadar",
+            "num_ayah": 5,
+            "page": 598,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6130,
+        "surah_id": 97,
+        "ayah": 5,
+        "page": 598,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0633\u064e\u0644\u0670\u0645\u064c \u06db\u0647\u0650\u064a\u064e \u062d\u064e\u062a\u0651\u0670\u0649 \u0645\u064e\u0637\u0652\u0644\u064e\u0639\u0650 \u0627\u0644\u0652\u0641\u064e\u062c\u0652\u0631\u0650 \u08d6",
+        "kitabah": "\u0633\u064e\u0644\u0670\u0645\u064c \u06db\u0647\u0650\u064a\u064e \u062d\u064e\u062a\u0651\u0670\u0649 \u0645\u064e\u0637\u0652\u0644\u064e\u0639\u0650 \u0627\u0644\u0652\u0641\u064e\u062c\u0652\u0631\u0650 \u08d6",
+        "latin": "Sal\u0101mun hiya \u1e25att\u0101 ma\u1e6dla\u2018il-fajr(i). ",
+        "arabic_words": [
+            "\u0633\u064e\u0644\u0670\u0645\u064c \u06db",
+            "\u0647\u0650\u064a\u064e",
+            "\u062d\u064e\u062a\u0651\u0670\u0649",
+            "\u0645\u064e\u0637\u0652\u0644\u064e\u0639\u0650",
+            "\u0627\u0644\u0652\u0641\u064e\u062c\u0652\u0631\u0650 \u08d6"
+        ],
+        "translation": "Sejahteralah (malam) itu sampai terbit fajar.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 97,
+            "arabic": " \u0627\u0644\u0642\u062f\u0631",
+            "latin": "Al-Qadr",
+            "transliteration": "Al-Qadr",
+            "translation": "Al-Qadar",
+            "num_ayah": 5,
+            "page": 598,
+            "location": "Makkiyah"
+        }
+    }
+]

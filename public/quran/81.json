@@ -1,0 +1,889 @@
+[
+    {
+        "id": 5801,
+        "surah_id": 81,
+        "ayah": 1,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0634\u0651\u064e\u0645\u0652\u0633\u064f \u0643\u064f\u0648\u0651\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0634\u0651\u064e\u0645\u0652\u0633\u064f \u0643\u064f\u0648\u0651\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "latin": "I\u017casy-syamsu kuwwirat.",
+        "arabic_words": [
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0634\u0651\u064e\u0645\u0652\u0633\u064f",
+            "\u0643\u064f\u0648\u0651\u0650\u0631\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "Apabila matahari digulung,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5802,
+        "surah_id": 81,
+        "ayah": 2,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0646\u0651\u064f\u062c\u064f\u0648\u0652\u0645\u064f \u0627\u0646\u0652\u0643\u064e\u062f\u064e\u0631\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0646\u0651\u064f\u062c\u064f\u0648\u0652\u0645\u064f \u0627\u0646\u0652\u0643\u064e\u062f\u064e\u0631\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017can-nuj\u016bmunkadarat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0646\u0651\u064f\u062c\u064f\u0648\u0652\u0645\u064f",
+            "\u0627\u0646\u0652\u0643\u064e\u062f\u064e\u0631\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila bintang-bintang berjatuhan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5803,
+        "surah_id": 81,
+        "ayah": 3,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u062c\u0650\u0628\u064e\u0627\u0644\u064f \u0633\u064f\u064a\u0651\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u062c\u0650\u0628\u064e\u0627\u0644\u064f \u0633\u064f\u064a\u0651\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017cal-jib\u0101lu suyyirat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0652\u062c\u0650\u0628\u064e\u0627\u0644\u064f",
+            "\u0633\u064f\u064a\u0651\u0650\u0631\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila gunung-gunung dihancurkan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5804,
+        "surah_id": 81,
+        "ayah": 4,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u0639\u0650\u0634\u064e\u0627\u0631\u064f \u0639\u064f\u0637\u0651\u0650\u0644\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u0639\u0650\u0634\u064e\u0627\u0631\u064f \u0639\u064f\u0637\u0651\u0650\u0644\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017cal-\u2018isy\u0101ru \u2018u\u1e6d\u1e6dilat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0652\u0639\u0650\u0634\u064e\u0627\u0631\u064f",
+            "\u0639\u064f\u0637\u0651\u0650\u0644\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila unta-unta yang bunting ditinggalkan (tidak terurus),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5805,
+        "surah_id": 81,
+        "ayah": 5,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u0648\u064f\u062d\u064f\u0648\u0652\u0634\u064f \u062d\u064f\u0634\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u0648\u064f\u062d\u064f\u0648\u0652\u0634\u064f \u062d\u064f\u0634\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017cal-wu\u1e25\u016bsy \u1e25usyirat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0652\u0648\u064f\u062d\u064f\u0648\u0652\u0634\u064f",
+            "\u062d\u064f\u0634\u0650\u0631\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila binatang-binatang liar dikumpulkan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5806,
+        "surah_id": 81,
+        "ayah": 6,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u0628\u0650\u062d\u064e\u0627\u0631\u064f \u0633\u064f\u062c\u0651\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u0628\u0650\u062d\u064e\u0627\u0631\u064f \u0633\u064f\u062c\u0651\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017cal-bi\u1e25\u0101ru sujjirat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0652\u0628\u0650\u062d\u064e\u0627\u0631\u064f",
+            "\u0633\u064f\u062c\u0651\u0650\u0631\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila lautan dipanaskan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5807,
+        "surah_id": 81,
+        "ayah": 7,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0646\u0651\u064f\u0641\u064f\u0648\u0652\u0633\u064f \u0632\u064f\u0648\u0651\u0650\u062c\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0646\u0651\u064f\u0641\u064f\u0648\u0652\u0633\u064f \u0632\u064f\u0648\u0651\u0650\u062c\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017can-nuf\u016bsu zuwwijat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0646\u0651\u064f\u0641\u064f\u0648\u0652\u0633\u064f",
+            "\u0632\u064f\u0648\u0651\u0650\u062c\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila roh-roh dipertemukan (dengan tubuh), ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5808,
+        "surah_id": 81,
+        "ayah": 8,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u0645\u064e\u0648\u0652\u0621\u0657\u062f\u064e\u0629\u064f \u0633\u064f\u0649\u0655\u0650\u0644\u064e\u062a\u0652\u06d6 ",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u0645\u064e\u0648\u0652\u0621\u0657\u062f\u064e\u0629\u064f \u0633\u064f\u0649\u0655\u0650\u0644\u064e\u062a\u0652\u06d6 ",
+        "latin": "Wa i\u017cal-mau'\u016bdatu su'ilat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0652\u0645\u064e\u0648\u0652\u0621\u0657\u062f\u064e\u0629\u064f",
+            "\u0633\u064f\u0649\u0655\u0650\u0644\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5809,
+        "surah_id": 81,
+        "ayah": 9,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0628\u0650\u0627\u064e\u064a\u0651\u0650 \u0630\u064e\u0646\u0652\u06e2\u0628\u064d \u0642\u064f\u062a\u0650\u0644\u064e\u062a\u0652\u06da",
+        "kitabah": "\u0628\u0650\u0627\u064e\u064a\u0651\u0650 \u0630\u064e\u0646\u0652\u06e2\u0628\u064d \u0642\u064f\u062a\u0650\u0644\u064e\u062a\u0652\u06da",
+        "latin": "Bi'ayyi \u017cambin qutilat.",
+        "arabic_words": [
+            "\u0628\u0650\u0627\u064e\u064a\u0651\u0650",
+            "\u0630\u064e\u0646\u0652\u06e2\u0628\u064d",
+            "\u0642\u064f\u062a\u0650\u0644\u064e\u062a\u0652\u06da"
+        ],
+        "translation": "\u201cKarena dosa apa dia dibunuh,\u201d",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5810,
+        "surah_id": 81,
+        "ayah": 10,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0635\u0651\u064f\u062d\u064f\u0641\u064f \u0646\u064f\u0634\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0635\u0651\u064f\u062d\u064f\u0641\u064f \u0646\u064f\u0634\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017ca\u1e63-\u1e63u\u1e25ufu nusyirat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0635\u0651\u064f\u062d\u064f\u0641\u064f",
+            "\u0646\u064f\u0634\u0650\u0631\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5811,
+        "surah_id": 81,
+        "ayah": 11,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u064f \u0643\u064f\u0634\u0650\u0637\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u064f \u0643\u064f\u0634\u0650\u0637\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017cas-sam\u0101'u kusyi\u1e6dat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0633\u0651\u064e\u0645\u064e\u0627\u06e4\u0621\u064f",
+            "\u0643\u064f\u0634\u0650\u0637\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila langit dilenyapkan, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5812,
+        "surah_id": 81,
+        "ayah": 12,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u062c\u064e\u062d\u0650\u064a\u0652\u0645\u064f \u0633\u064f\u0639\u0651\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u062c\u064e\u062d\u0650\u064a\u0652\u0645\u064f \u0633\u064f\u0639\u0651\u0650\u0631\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017cal-ja\u1e25\u012bmu su\u2018\u2018irat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0652\u062c\u064e\u062d\u0650\u064a\u0652\u0645\u064f",
+            "\u0633\u064f\u0639\u0651\u0650\u0631\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "apabila (neraka) Jahim dinyalakan, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5813,
+        "surah_id": 81,
+        "ayah": 13,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u062c\u064e\u0646\u0651\u064e\u0629\u064f \u0627\u064f\u0632\u0652\u0644\u0650\u0641\u064e\u062a\u0652\u06d6",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0630\u064e\u0627 \u0627\u0644\u0652\u062c\u064e\u0646\u0651\u064e\u0629\u064f \u0627\u064f\u0632\u0652\u0644\u0650\u0641\u064e\u062a\u0652\u06d6",
+        "latin": "Wa i\u017cal-jannatu uzlifat.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u0627\u0644\u0652\u062c\u064e\u0646\u0651\u064e\u0629\u064f",
+            "\u0627\u064f\u0632\u0652\u0644\u0650\u0641\u064e\u062a\u0652\u06d6"
+        ],
+        "translation": "dan apabila surga didekatkan, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5814,
+        "surah_id": 81,
+        "ayah": 14,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0639\u064e\u0644\u0650\u0645\u064e\u062a\u0652 \u0646\u064e\u0641\u0652\u0633\u064c \u0645\u0651\u064e\u0627\u0653 \u0627\u064e\u062d\u0652\u0636\u064e\u0631\u064e\u062a\u0652\u06d7",
+        "kitabah": "\u0639\u064e\u0644\u0650\u0645\u064e\u062a\u0652 \u0646\u064e\u0641\u0652\u0633\u064c \u0645\u0651\u064e\u0627\u0653 \u0627\u064e\u062d\u0652\u0636\u064e\u0631\u064e\u062a\u0652\u06d7",
+        "latin": "\u2018Alimat nafsum m\u0101 a\u1e25\u1e0darat.",
+        "arabic_words": [
+            "\u0639\u064e\u0644\u0650\u0645\u064e\u062a\u0652",
+            "\u0646\u064e\u0641\u0652\u0633\u064c",
+            "\u0645\u0651\u064e\u0627\u0653",
+            "\u0627\u064e\u062d\u0652\u0636\u064e\u0631\u064e\u062a\u0652\u06d7"
+        ],
+        "translation": "setiap jiwa akan mengetahui apa yang telah dikerjakannya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5815,
+        "surah_id": 81,
+        "ayah": 15,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0644\u064e\u0627\u0653 \u0627\u064f\u0642\u0652\u0633\u0650\u0645\u064f \u0628\u0650\u0627\u0644\u0652\u062e\u064f\u0646\u0651\u064e\u0633\u0650\u06d9",
+        "kitabah": "\u0641\u064e\u0644\u064e\u0627\u0653 \u0627\u064f\u0642\u0652\u0633\u0650\u0645\u064f \u0628\u0650\u0627\u0644\u0652\u062e\u064f\u0646\u0651\u064e\u0633\u0650\u06d9",
+        "latin": "Fal\u0101 uqsimu bil-khunnas(i).",
+        "arabic_words": [
+            "\u0641\u064e\u0644\u064e\u0627\u0653",
+            "\u0627\u064f\u0642\u0652\u0633\u0650\u0645\u064f",
+            "\u0628\u0650\u0627\u0644\u0652\u062e\u064f\u0646\u0651\u064e\u0633\u0650\u06d9"
+        ],
+        "translation": "Aku bersumpah demi bintang-bintang",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5816,
+        "surah_id": 81,
+        "ayah": 16,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0644\u0652\u062c\u064e\u0648\u064e\u0627\u0631\u0650 \u0627\u0644\u0652\u0643\u064f\u0646\u0651\u064e\u0633\u0650\u06d9",
+        "kitabah": "\u0627\u0644\u0652\u062c\u064e\u0648\u064e\u0627\u0631\u0650 \u0627\u0644\u0652\u0643\u064f\u0646\u0651\u064e\u0633\u0650\u06d9",
+        "latin": "Al-jaw\u0101ril-kunnas(i).",
+        "arabic_words": [
+            "\u0627\u0644\u0652\u062c\u064e\u0648\u064e\u0627\u0631\u0650",
+            "\u0627\u0644\u0652\u0643\u064f\u0646\u0651\u064e\u0633\u0650\u06d9"
+        ],
+        "translation": "yang beredar lagi terbenam, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5817,
+        "surah_id": 81,
+        "ayah": 17,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u0627\u0650\u0630\u064e\u0627 \u0639\u064e\u0633\u0652\u0639\u064e\u0633\u064e\u06d9",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650 \u0627\u0650\u0630\u064e\u0627 \u0639\u064e\u0633\u0652\u0639\u064e\u0633\u064e\u06d9",
+        "latin": "Wal-laili i\u017c\u0101 \u2018as\u2018as(a).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0651\u064e\u064a\u0652\u0644\u0650",
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u0639\u064e\u0633\u0652\u0639\u064e\u0633\u064e\u06d9"
+        ],
+        "translation": "demi malam apabila telah larut,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5818,
+        "surah_id": 81,
+        "ayah": 18,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0635\u0651\u064f\u0628\u0652\u062d\u0650 \u0627\u0650\u0630\u064e\u0627 \u062a\u064e\u0646\u064e\u0641\u0651\u064e\u0633\u064e\u06d9",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0635\u0651\u064f\u0628\u0652\u062d\u0650 \u0627\u0650\u0630\u064e\u0627 \u062a\u064e\u0646\u064e\u0641\u0651\u064e\u0633\u064e\u06d9",
+        "latin": "Wa\u1e63-\u1e63ub\u1e25i i\u017c\u0101 tanaffas(a).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0635\u0651\u064f\u0628\u0652\u062d\u0650",
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u062a\u064e\u0646\u064e\u0641\u0651\u064e\u0633\u064e\u06d9"
+        ],
+        "translation": "demi subuh apabila (fajar) telah menyingsing, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5819,
+        "surah_id": 81,
+        "ayah": 19,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u0642\u064e\u0648\u0652\u0644\u064f \u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064d \u0643\u064e\u0631\u0650\u064a\u0652\u0645\u064d\u06d9",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u064e\u0642\u064e\u0648\u0652\u0644\u064f \u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064d \u0643\u064e\u0631\u0650\u064a\u0652\u0645\u064d\u06d9",
+        "latin": "Innah\u016b laqaulu ras\u016blin kar\u012bm(in).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e\u0647\u0657",
+            "\u0644\u064e\u0642\u064e\u0648\u0652\u0644\u064f",
+            "\u0631\u064e\u0633\u064f\u0648\u0652\u0644\u064d",
+            "\u0643\u064e\u0631\u0650\u064a\u0652\u0645\u064d\u06d9"
+        ],
+        "translation": "sesungguhnya (Al-Qur\u2019an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5820,
+        "surah_id": 81,
+        "ayah": 20,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0630\u0650\u064a\u0652 \u0642\u064f\u0648\u0651\u064e\u0629\u064d \u0639\u0650\u0646\u0652\u062f\u064e \u0630\u0650\u0649 \u0627\u0644\u0652\u0639\u064e\u0631\u0652\u0634\u0650 \u0645\u064e\u0643\u0650\u064a\u0652\u0646\u064d\u06d9",
+        "kitabah": "\u0630\u0650\u064a\u0652 \u0642\u064f\u0648\u0651\u064e\u0629\u064d \u0639\u0650\u0646\u0652\u062f\u064e \u0630\u0650\u0649 \u0627\u0644\u0652\u0639\u064e\u0631\u0652\u0634\u0650 \u0645\u064e\u0643\u0650\u064a\u0652\u0646\u064d\u06d9",
+        "latin": "\u017b\u012b quwwatin \u2018inda \u017cil-\u2018arsyi mak\u012bn(in).",
+        "arabic_words": [
+            "\u0630\u0650\u064a\u0652",
+            "\u0642\u064f\u0648\u0651\u064e\u0629\u064d",
+            "\u0639\u0650\u0646\u0652\u062f\u064e",
+            "\u0630\u0650\u0649",
+            "\u0627\u0644\u0652\u0639\u064e\u0631\u0652\u0634\u0650",
+            "\u0645\u064e\u0643\u0650\u064a\u0652\u0646\u064d\u06d9"
+        ],
+        "translation": "yang memiliki kekuatan dan kedudukan tinggi di sisi (Allah) yang memiliki \u02bbArasy,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5821,
+        "surah_id": 81,
+        "ayah": 21,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0645\u0651\u064f\u0637\u064e\u0627\u0639\u064d \u062b\u064e\u0645\u0651\u064e \u0627\u064e\u0645\u0650\u064a\u0652\u0646\u064d\u06d7",
+        "kitabah": "\u0645\u0651\u064f\u0637\u064e\u0627\u0639\u064d \u062b\u064e\u0645\u0651\u064e \u0627\u064e\u0645\u0650\u064a\u0652\u0646\u064d\u06d7",
+        "latin": "Mu\u1e6d\u0101\u2018in \u1e61amma am\u012bn(in).",
+        "arabic_words": [
+            "\u0645\u0651\u064f\u0637\u064e\u0627\u0639\u064d",
+            "\u062b\u064e\u0645\u0651\u064e",
+            "\u0627\u064e\u0645\u0650\u064a\u0652\u0646\u064d\u06d7"
+        ],
+        "translation": "yang di sana (Jibril) ditaati lagi dipercaya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5822,
+        "surah_id": 81,
+        "ayah": 22,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627 \u0635\u064e\u0627\u062d\u0650\u0628\u064f\u0643\u064f\u0645\u0652 \u0628\u0650\u0645\u064e\u062c\u0652\u0646\u064f\u0648\u0652\u0646\u064d\u06da",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627 \u0635\u064e\u0627\u062d\u0650\u0628\u064f\u0643\u064f\u0645\u0652 \u0628\u0650\u0645\u064e\u062c\u0652\u0646\u064f\u0648\u0652\u0646\u064d\u06da",
+        "latin": "Wa m\u0101 \u1e63\u0101\u1e25ibukum bimajn\u016bn(in).",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627",
+            "\u0635\u064e\u0627\u062d\u0650\u0628\u064f\u0643\u064f\u0645\u0652",
+            "\u0628\u0650\u0645\u064e\u062c\u0652\u0646\u064f\u0648\u0652\u0646\u064d\u06da"
+        ],
+        "translation": "Temanmu (Nabi Muhammad) itu bukanlah orang gila. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5823,
+        "surah_id": 81,
+        "ayah": 23,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652 \u0631\u064e\u0627\u0670\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0627\u064f\u0641\u064f\u0642\u0650 \u0627\u0644\u0652\u0645\u064f\u0628\u0650\u064a\u0652\u0646\u0650\u06da",
+        "kitabah": "\u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652 \u0631\u064e\u0627\u0670\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0627\u064f\u0641\u064f\u0642\u0650 \u0627\u0644\u0652\u0645\u064f\u0628\u0650\u064a\u0652\u0646\u0650\u06da",
+        "latin": "Wa laqad ra'\u0101hu bil-ufuqil-mub\u012bn(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0644\u064e\u0642\u064e\u062f\u0652",
+            "\u0631\u064e\u0627\u0670\u0647\u064f",
+            "\u0628\u0650\u0627\u0644\u0652\u0627\u064f\u0641\u064f\u0642\u0650",
+            "\u0627\u0644\u0652\u0645\u064f\u0628\u0650\u064a\u0652\u0646\u0650\u06da"
+        ],
+        "translation": "Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5824,
+        "surah_id": 81,
+        "ayah": 24,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627 \u0647\u064f\u0648\u064e \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0652\u063a\u064e\u064a\u0652\u0628\u0650 \u0628\u0650\u0636\u064e\u0646\u0650\u064a\u0652\u0646\u064d\u06da",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627 \u0647\u064f\u0648\u064e \u0639\u064e\u0644\u064e\u0649 \u0627\u0644\u0652\u063a\u064e\u064a\u0652\u0628\u0650 \u0628\u0650\u0636\u064e\u0646\u0650\u064a\u0652\u0646\u064d\u06da",
+        "latin": "Wa m\u0101 huwa \u2018alal-gaibi bi\u1e0dan\u012bn(in).",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627",
+            "\u0647\u064f\u0648\u064e",
+            "\u0639\u064e\u0644\u064e\u0649",
+            "\u0627\u0644\u0652\u063a\u064e\u064a\u0652\u0628\u0650",
+            "\u0628\u0650\u0636\u064e\u0646\u0650\u064a\u0652\u0646\u064d\u06da"
+        ],
+        "translation": "Dia (Nabi Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5825,
+        "surah_id": 81,
+        "ayah": 25,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627 \u0647\u064f\u0648\u064e \u0628\u0650\u0642\u064e\u0648\u0652\u0644\u0650 \u0634\u064e\u064a\u0652\u0637\u0670\u0646\u064d \u0631\u0651\u064e\u062c\u0650\u064a\u0652\u0645\u064d\u06da",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627 \u0647\u064f\u0648\u064e \u0628\u0650\u0642\u064e\u0648\u0652\u0644\u0650 \u0634\u064e\u064a\u0652\u0637\u0670\u0646\u064d \u0631\u0651\u064e\u062c\u0650\u064a\u0652\u0645\u064d\u06da",
+        "latin": "Wa m\u0101 huwa biqauli syai\u1e6d\u0101nir raj\u012bm(in).",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627",
+            "\u0647\u064f\u0648\u064e",
+            "\u0628\u0650\u0642\u064e\u0648\u0652\u0644\u0650",
+            "\u0634\u064e\u064a\u0652\u0637\u0670\u0646\u064d",
+            "\u0631\u0651\u064e\u062c\u0650\u064a\u0652\u0645\u064d\u06da"
+        ],
+        "translation": "(Al-Qur\u2019an) itu bukanlah perkataan setan yang terkutuk.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5826,
+        "surah_id": 81,
+        "ayah": 26,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u064e\u064a\u0652\u0646\u064e \u062a\u064e\u0630\u0652\u0647\u064e\u0628\u064f\u0648\u0652\u0646\u064e\u06d7",
+        "kitabah": "\u0641\u064e\u0627\u064e\u064a\u0652\u0646\u064e \u062a\u064e\u0630\u0652\u0647\u064e\u0628\u064f\u0648\u0652\u0646\u064e\u06d7",
+        "latin": "Fa aina ta\u017chab\u016bn(a).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u064e\u064a\u0652\u0646\u064e",
+            "\u062a\u064e\u0630\u0652\u0647\u064e\u0628\u064f\u0648\u0652\u0646\u064e\u06d7"
+        ],
+        "translation": "Maka, ke manakah kamu akan pergi?747)",
+        "footnotes": "747) Setelah diterangkan bahwa Al-Qur\u2019an itu benar-benar datang dari Allah dan di dalamnya ada pelajaran dan petunjuk yang memimpin manusia ke jalan yang lurus, ditanyakanlah kepada orang-orang kafir itu, \u201cJalan manakah yang akan kamu tempuh?\u201d",
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5827,
+        "surah_id": 81,
+        "ayah": 27,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0652 \u0647\u064f\u0648\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0630\u0650\u0643\u0652\u0631\u064c \u0644\u0651\u0650\u0644\u0652\u0639\u0670\u0644\u064e\u0645\u0650\u064a\u0652\u0646\u064e\u06d9",
+        "kitabah": "\u0627\u0650\u0646\u0652 \u0647\u064f\u0648\u064e \u0627\u0650\u0644\u0651\u064e\u0627 \u0630\u0650\u0643\u0652\u0631\u064c \u0644\u0651\u0650\u0644\u0652\u0639\u0670\u0644\u064e\u0645\u0650\u064a\u0652\u0646\u064e\u06d9",
+        "latin": "In huwa ill\u0101 \u017cikrul lil-\u2018\u0101lam\u012bn(a).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0652",
+            "\u0647\u064f\u0648\u064e",
+            "\u0627\u0650\u0644\u0651\u064e\u0627",
+            "\u0630\u0650\u0643\u0652\u0631\u064c",
+            "\u0644\u0651\u0650\u0644\u0652\u0639\u0670\u0644\u064e\u0645\u0650\u064a\u0652\u0646\u064e\u06d9"
+        ],
+        "translation": "(Al-Qur\u2019an) itu tidak lain, kecuali peringatan bagi semesta alam, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5828,
+        "surah_id": 81,
+        "ayah": 28,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0644\u0650\u0645\u064e\u0646\u0652 \u0634\u064e\u0627\u06e4\u0621\u064e \u0645\u0650\u0646\u0652\u0643\u064f\u0645\u0652 \u0627\u064e\u0646\u0652 \u064a\u0651\u064e\u0633\u0652\u062a\u064e\u0642\u0650\u064a\u0652\u0645\u064e\u06d7",
+        "kitabah": "\u0644\u0650\u0645\u064e\u0646\u0652 \u0634\u064e\u0627\u06e4\u0621\u064e \u0645\u0650\u0646\u0652\u0643\u064f\u0645\u0652 \u0627\u064e\u0646\u0652 \u064a\u0651\u064e\u0633\u0652\u062a\u064e\u0642\u0650\u064a\u0652\u0645\u064e\u06d7",
+        "latin": "Liman sy\u0101'a minkum ay yastaq\u012bm(a).",
+        "arabic_words": [
+            "\u0644\u0650\u0645\u064e\u0646\u0652",
+            "\u0634\u064e\u0627\u06e4\u0621\u064e",
+            "\u0645\u0650\u0646\u0652\u0643\u064f\u0645\u0652",
+            "\u0627\u064e\u0646\u0652",
+            "\u064a\u0651\u064e\u0633\u0652\u062a\u064e\u0642\u0650\u064a\u0652\u0645\u064e\u06d7"
+        ],
+        "translation": "(yaitu) bagi siapa di antaramu yang hendak menempuh jalan yang lurus. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5829,
+        "surah_id": 81,
+        "ayah": 29,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627 \u062a\u064e\u0634\u064e\u0627\u06e4\u0621\u064f\u0648\u0652\u0646\u064e \u0627\u0650\u0644\u0651\u064e\u0627\u0653 \u0627\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0631\u064e\u0628\u0651\u064f \u0627\u0644\u0652\u0639\u0670\u0644\u064e\u0645\u0650\u064a\u0652\u0646\u064e \u08d6",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627 \u062a\u064e\u0634\u064e\u0627\u06e4\u0621\u064f\u0648\u0652\u0646\u064e \u0627\u0650\u0644\u0651\u064e\u0627\u0653 \u0627\u064e\u0646\u0652 \u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064e \u0627\u0644\u0644\u0651\u0670\u0647\u064f \u0631\u064e\u0628\u0651\u064f \u0627\u0644\u0652\u0639\u0670\u0644\u064e\u0645\u0650\u064a\u0652\u0646\u064e \u08d6",
+        "latin": "Wa m\u0101 tasy\u0101'\u016bna ill\u0101 ay yasy\u0101'all\u0101hu rabbul-\u2018\u0101lam\u012bn(a).",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627",
+            "\u062a\u064e\u0634\u064e\u0627\u06e4\u0621\u064f\u0648\u0652\u0646\u064e",
+            "\u0627\u0650\u0644\u0651\u064e\u0627\u0653",
+            "\u0627\u064e\u0646\u0652",
+            "\u064a\u0651\u064e\u0634\u064e\u0627\u06e4\u0621\u064e",
+            "\u0627\u0644\u0644\u0651\u0670\u0647\u064f",
+            "\u0631\u064e\u0628\u0651\u064f",
+            "\u0627\u0644\u0652\u0639\u0670\u0644\u064e\u0645\u0650\u064a\u0652\u0646\u064e \u08d6"
+        ],
+        "translation": "Kamu tidak dapat berkehendak, kecuali apabila dikehendaki Allah, Tuhan semesta alam.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0648\u064a\u0631",
+            "latin": "At-Takw\u012br",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    }
+]

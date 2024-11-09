@@ -1,0 +1,246 @@
+[
+    {
+        "id": 6169,
+        "surah_id": 102,
+        "ayah": 1,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064e\u0644\u0652\u0647\u0670\u0649\u0643\u064f\u0645\u064f \u0627\u0644\u062a\u0651\u064e\u0643\u064e\u0627\u062b\u064f\u0631\u064f\u06d9",
+        "kitabah": "\u0627\u064e\u0644\u0652\u0647\u0670\u0649\u0643\u064f\u0645\u064f \u0627\u0644\u062a\u0651\u064e\u0643\u064e\u0627\u062b\u064f\u0631\u064f\u06d9",
+        "latin": "Alh\u0101kumut-tak\u0101\u1e61ur(u). ",
+        "arabic_words": [
+            "\u0627\u064e\u0644\u0652\u0647\u0670\u0649\u0643\u064f\u0645\u064f",
+            "\u0627\u0644\u062a\u0651\u064e\u0643\u064e\u0627\u062b\u064f\u0631\u064f\u06d9"
+        ],
+        "translation": "Berbangga-bangga dalam memperbanyak (dunia) telah melalaikanmu760)",
+        "footnotes": "760) Maksudnya adalah bersaing memperbanyak anak, harta, pengikut, kemuliaan, dan sebagainya telah melalaikan manusia dari ketaatan kepada Allah Swt.",
+        "updated_at": null,
+        "surah": {
+            "id": 102,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0627\u062b\u0631",
+            "latin": "At-Tak\u0101\u1e61ur",
+            "transliteration": "At-Takasur",
+            "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+            "num_ayah": 8,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6170,
+        "surah_id": 102,
+        "ayah": 2,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062d\u064e\u062a\u0651\u0670\u0649 \u0632\u064f\u0631\u0652\u062a\u064f\u0645\u064f \u0627\u0644\u0652\u0645\u064e\u0642\u064e\u0627\u0628\u0650\u0631\u064e\u06d7",
+        "kitabah": "\u062d\u064e\u062a\u0651\u0670\u0649 \u0632\u064f\u0631\u0652\u062a\u064f\u0645\u064f \u0627\u0644\u0652\u0645\u064e\u0642\u064e\u0627\u0628\u0650\u0631\u064e\u06d7",
+        "latin": "\u1e24att\u0101 zurtumul-maq\u0101bir(a).",
+        "arabic_words": [
+            "\u062d\u064e\u062a\u0651\u0670\u0649",
+            "\u0632\u064f\u0631\u0652\u062a\u064f\u0645\u064f",
+            "\u0627\u0644\u0652\u0645\u064e\u0642\u064e\u0627\u0628\u0650\u0631\u064e\u06d7"
+        ],
+        "translation": "sampai kamu masuk ke dalam kubur.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 102,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0627\u062b\u0631",
+            "latin": "At-Tak\u0101\u1e61ur",
+            "transliteration": "At-Takasur",
+            "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+            "num_ayah": 8,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6171,
+        "surah_id": 102,
+        "ayah": 3,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e\u06d9",
+        "kitabah": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e\u06d9",
+        "latin": "Kall\u0101 saufa ta\u2018lam\u016bn(a).",
+        "arabic_words": [
+            "\u0643\u064e\u0644\u0651\u064e\u0627",
+            "\u0633\u064e\u0648\u0652\u0641\u064e",
+            "\u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e\u06d9"
+        ],
+        "translation": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 102,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0627\u062b\u0631",
+            "latin": "At-Tak\u0101\u1e61ur",
+            "transliteration": "At-Takasur",
+            "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+            "num_ayah": 8,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6172,
+        "surah_id": 102,
+        "ayah": 4,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062b\u064f\u0645\u0651\u064e \u0643\u064e\u0644\u0651\u064e\u0627 \u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e ",
+        "kitabah": "\u062b\u064f\u0645\u0651\u064e \u0643\u064e\u0644\u0651\u064e\u0627 \u0633\u064e\u0648\u0652\u0641\u064e \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e ",
+        "latin": "\u1e60umma kall\u0101 saufa ta\u2018lam\u016bn(a).",
+        "arabic_words": [
+            "\u062b\u064f\u0645\u0651\u064e",
+            "\u0643\u064e\u0644\u0651\u064e\u0627",
+            "\u0633\u064e\u0648\u0652\u0641\u064e",
+            "\u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e"
+        ],
+        "translation": "Sekali-kali tidak (jangan melakukan itu)! Kelak kamu akan mengetahui (akibatnya).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 102,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0627\u062b\u0631",
+            "latin": "At-Tak\u0101\u1e61ur",
+            "transliteration": "At-Takasur",
+            "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+            "num_ayah": 8,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6173,
+        "surah_id": 102,
+        "ayah": 5,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0644\u064e\u0648\u0652 \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e \u0639\u0650\u0644\u0652\u0645\u064e \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0652\u0646\u0650\u06d7",
+        "kitabah": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0644\u064e\u0648\u0652 \u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e \u0639\u0650\u0644\u0652\u0645\u064e \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0652\u0646\u0650\u06d7",
+        "latin": "Kall\u0101 lau ta\u2018lam\u016bna \u2018ilmal-yaq\u012bn(i).",
+        "arabic_words": [
+            "\u0643\u064e\u0644\u0651\u064e\u0627",
+            "\u0644\u064e\u0648\u0652",
+            "\u062a\u064e\u0639\u0652\u0644\u064e\u0645\u064f\u0648\u0652\u0646\u064e",
+            "\u0639\u0650\u0644\u0652\u0645\u064e",
+            "\u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0652\u0646\u0650\u06d7"
+        ],
+        "translation": "Sekali-kali tidak (jangan melakukan itu)! Sekiranya kamu mengetahui dengan pasti, (niscaya kamu tidak akan melakukannya).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 102,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0627\u062b\u0631",
+            "latin": "At-Tak\u0101\u1e61ur",
+            "transliteration": "At-Takasur",
+            "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+            "num_ayah": 8,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6174,
+        "surah_id": 102,
+        "ayah": 6,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e \u0627\u0644\u0652\u062c\u064e\u062d\u0650\u064a\u0652\u0645\u064e\u06d9",
+        "kitabah": "\u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e \u0627\u0644\u0652\u062c\u064e\u062d\u0650\u064a\u0652\u0645\u064e\u06d9",
+        "latin": "Latarawunnal-ja\u1e25\u012bm(a).",
+        "arabic_words": [
+            "\u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e",
+            "\u0627\u0644\u0652\u062c\u064e\u062d\u0650\u064a\u0652\u0645\u064e\u06d9"
+        ],
+        "translation": "Pasti kamu benar-benar akan melihat (neraka) Jahim.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 102,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0627\u062b\u0631",
+            "latin": "At-Tak\u0101\u1e61ur",
+            "transliteration": "At-Takasur",
+            "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+            "num_ayah": 8,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6175,
+        "surah_id": 102,
+        "ayah": 7,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062b\u064f\u0645\u0651\u064e \u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e\u0647\u064e\u0627 \u0639\u064e\u064a\u0652\u0646\u064e \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0652\u0646\u0650\u06d9",
+        "kitabah": "\u062b\u064f\u0645\u0651\u064e \u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e\u0647\u064e\u0627 \u0639\u064e\u064a\u0652\u0646\u064e \u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0652\u0646\u0650\u06d9",
+        "latin": "\u1e60umma latarawunnah\u0101 \u2018ainal-yaq\u012bn(i).",
+        "arabic_words": [
+            "\u062b\u064f\u0645\u0651\u064e",
+            "\u0644\u064e\u062a\u064e\u0631\u064e\u0648\u064f\u0646\u0651\u064e\u0647\u064e\u0627",
+            "\u0639\u064e\u064a\u0652\u0646\u064e",
+            "\u0627\u0644\u0652\u064a\u064e\u0642\u0650\u064a\u0652\u0646\u0650\u06d9"
+        ],
+        "translation": "Kemudian, kamu pasti benar-benar akan melihatnya dengan ainulyakin.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 102,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0627\u062b\u0631",
+            "latin": "At-Tak\u0101\u1e61ur",
+            "transliteration": "At-Takasur",
+            "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+            "num_ayah": 8,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6176,
+        "surah_id": 102,
+        "ayah": 8,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062b\u064f\u0645\u0651\u064e \u0644\u064e\u062a\u064f\u0633\u0652\u0640\u0654\u064e\u0644\u064f\u0646\u0651\u064e \u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0639\u064e\u0646\u0650 \u0627\u0644\u0646\u0651\u064e\u0639\u0650\u064a\u0652\u0645\u0650 \u08d6",
+        "kitabah": "\u062b\u064f\u0645\u0651\u064e \u0644\u064e\u062a\u064f\u0633\u0652\u0640\u0654\u064e\u0644\u064f\u0646\u0651\u064e \u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0639\u064e\u0646\u0650 \u0627\u0644\u0646\u0651\u064e\u0639\u0650\u064a\u0652\u0645\u0650 \u08d6",
+        "latin": "\u1e60umma latus'alunna yauma'i\u017cin \u2018anin-na\u2018\u012bm(i).",
+        "arabic_words": [
+            "\u062b\u064f\u0645\u0651\u064e",
+            "\u0644\u064e\u062a\u064f\u0633\u0652\u0640\u0654\u064e\u0644\u064f\u0646\u0651\u064e",
+            "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d",
+            "\u0639\u064e\u0646\u0650",
+            "\u0627\u0644\u0646\u0651\u064e\u0639\u0650\u064a\u0652\u0645\u0650 \u08d6"
+        ],
+        "translation": "Kemudian, kamu pasti benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 102,
+            "arabic": "\u0627\u0644\u062a\u0651\u0643\u0627\u062b\u0631",
+            "latin": "At-Tak\u0101\u1e61ur",
+            "transliteration": "At-Takasur",
+            "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+            "num_ayah": 8,
+            "page": 600,
+            "location": "Makkiyah"
+        }
+    }
+]

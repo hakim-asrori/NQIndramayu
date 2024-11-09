@@ -1,0 +1,1269 @@
+[
+    {
+        "id": 5759,
+        "surah_id": 80,
+        "ayah": 1,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0639\u064e\u0628\u064e\u0633\u064e \u0648\u064e\u062a\u064e\u0648\u064e\u0644\u0651\u0670\u0649\u0653\u06d9",
+        "kitabah": "\u0639\u064e\u0628\u064e\u0633\u064e \u0648\u064e\u062a\u064e\u0648\u064e\u0644\u0651\u0670\u0649\u0653\u06d9",
+        "latin": "\u2018Abasa wa tawall\u0101.",
+        "arabic_words": [
+            "\u0639\u064e\u0628\u064e\u0633\u064e",
+            "\u0648\u064e\u062a\u064e\u0648\u064e\u0644\u0651\u0670\u0649\u0653\u06d9"
+        ],
+        "translation": "Dia (Nabi Muhammad) berwajah masam dan berpaling",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5760,
+        "surah_id": 80,
+        "ayah": 2,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064e\u0646\u0652 \u062c\u064e\u0627\u06e4\u0621\u064e\u0647\u064f \u0627\u0644\u0652\u0627\u064e\u0639\u0652\u0645\u0670\u0649\u06d7",
+        "kitabah": "\u0627\u064e\u0646\u0652 \u062c\u064e\u0627\u06e4\u0621\u064e\u0647\u064f \u0627\u0644\u0652\u0627\u064e\u0639\u0652\u0645\u0670\u0649\u06d7",
+        "latin": "An j\u0101'ahul-a\u2018m\u0101.",
+        "arabic_words": [
+            "\u0627\u064e\u0646\u0652",
+            "\u062c\u064e\u0627\u06e4\u0621\u064e\u0647\u064f",
+            "\u0627\u0644\u0652\u0627\u064e\u0639\u0652\u0645\u0670\u0649\u06d7"
+        ],
+        "translation": "karena seorang tunanetra (Abdullah bin Ummi Maktum) telah datang kepadanya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5761,
+        "surah_id": 80,
+        "ayah": 3,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627 \u064a\u064f\u062f\u0652\u0631\u0650\u064a\u0652\u0643\u064e \u0644\u064e\u0639\u064e\u0644\u0651\u064e\u0647\u0657 \u064a\u064e\u0632\u0651\u064e\u0643\u0651\u0670\u0649\u0653\u06d9",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627 \u064a\u064f\u062f\u0652\u0631\u0650\u064a\u0652\u0643\u064e \u0644\u064e\u0639\u064e\u0644\u0651\u064e\u0647\u0657 \u064a\u064e\u0632\u0651\u064e\u0643\u0651\u0670\u0649\u0653\u06d9",
+        "latin": "Wa m\u0101 yudr\u012bka la\u2018allah\u016b yazzakk\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627",
+            "\u064a\u064f\u062f\u0652\u0631\u0650\u064a\u0652\u0643\u064e",
+            "\u0644\u064e\u0639\u064e\u0644\u0651\u064e\u0647\u0657",
+            "\u064a\u064e\u0632\u0651\u064e\u0643\u0651\u0670\u0649\u0653\u06d9"
+        ],
+        "translation": "Tahukah engkau (Nabi Muhammad) boleh jadi dia ingin menyucikan dirinya (dari dosa)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5762,
+        "surah_id": 80,
+        "ayah": 4,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064e\u0648\u0652 \u064a\u064e\u0630\u0651\u064e\u0643\u0651\u064e\u0631\u064f \u0641\u064e\u062a\u064e\u0646\u0652\u0641\u064e\u0639\u064e\u0647\u064f \u0627\u0644\u0630\u0651\u0650\u0643\u0652\u0631\u0670\u0649\u06d7",
+        "kitabah": "\u0627\u064e\u0648\u0652 \u064a\u064e\u0630\u0651\u064e\u0643\u0651\u064e\u0631\u064f \u0641\u064e\u062a\u064e\u0646\u0652\u0641\u064e\u0639\u064e\u0647\u064f \u0627\u0644\u0630\u0651\u0650\u0643\u0652\u0631\u0670\u0649\u06d7",
+        "latin": "Au ya\u017c\u017cakkaru fatanfa\u2018ahu\u017c-\u017cikr\u0101.",
+        "arabic_words": [
+            "\u0627\u064e\u0648\u0652",
+            "\u064a\u064e\u0630\u0651\u064e\u0643\u0651\u064e\u0631\u064f",
+            "\u0641\u064e\u062a\u064e\u0646\u0652\u0641\u064e\u0639\u064e\u0647\u064f",
+            "\u0627\u0644\u0630\u0651\u0650\u0643\u0652\u0631\u0670\u0649\u06d7"
+        ],
+        "translation": "atau dia (ingin) mendapatkan pengajaran sehingga pengajaran itu bermanfaat baginya?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5763,
+        "surah_id": 80,
+        "ayah": 5,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0650 \u0627\u0633\u0652\u062a\u064e\u063a\u0652\u0646\u0670\u0649\u06d9",
+        "kitabah": "\u0627\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0650 \u0627\u0633\u0652\u062a\u064e\u063a\u0652\u0646\u0670\u0649\u06d9",
+        "latin": "Amm\u0101 manistagn\u0101.",
+        "arabic_words": [
+            "\u0627\u064e\u0645\u0651\u064e\u0627",
+            "\u0645\u064e\u0646\u0650",
+            "\u0627\u0633\u0652\u062a\u064e\u063a\u0652\u0646\u0670\u0649\u06d9"
+        ],
+        "translation": "Adapun orang yang merasa dirinya serba cukup (para pembesar Quraisy),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5764,
+        "surah_id": 80,
+        "ayah": 6,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u064e\u0646\u0652\u062a\u064e \u0644\u064e\u0647\u0657 \u062a\u064e\u0635\u064e\u062f\u0651\u0670\u0649\u06d7",
+        "kitabah": "\u0641\u064e\u0627\u064e\u0646\u0652\u062a\u064e \u0644\u064e\u0647\u0657 \u062a\u064e\u0635\u064e\u062f\u0651\u0670\u0649\u06d7",
+        "latin": "Fa anta lah\u016b ta\u1e63add\u0101.",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u064e\u0646\u0652\u062a\u064e",
+            "\u0644\u064e\u0647\u0657",
+            "\u062a\u064e\u0635\u064e\u062f\u0651\u0670\u0649\u06d7"
+        ],
+        "translation": "engkau (Nabi Muhammad) memberi perhatian kepadanya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5765,
+        "surah_id": 80,
+        "ayah": 7,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064e \u0627\u064e\u0644\u0651\u064e\u0627 \u064a\u064e\u0632\u0651\u064e\u0643\u0651\u0670\u0649\u06d7",
+        "kitabah": "\u0648\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064e \u0627\u064e\u0644\u0651\u064e\u0627 \u064a\u064e\u0632\u0651\u064e\u0643\u0651\u0670\u0649\u06d7",
+        "latin": "Wa m\u0101 \u2018alaika all\u0101 yazzakk\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0645\u064e\u0627",
+            "\u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064e",
+            "\u0627\u064e\u0644\u0651\u064e\u0627",
+            "\u064a\u064e\u0632\u0651\u064e\u0643\u0651\u0670\u0649\u06d7"
+        ],
+        "translation": "Padahal, tidak ada (cela) atasmu kalau dia tidak menyucikan diri (beriman).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5766,
+        "surah_id": 80,
+        "ayah": 8,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u062c\u064e\u0627\u06e4\u0621\u064e\u0643\u064e \u064a\u064e\u0633\u0652\u0639\u0670\u0649\u06d9",
+        "kitabah": "\u0648\u064e\u0627\u064e\u0645\u0651\u064e\u0627 \u0645\u064e\u0646\u0652 \u062c\u064e\u0627\u06e4\u0621\u064e\u0643\u064e \u064a\u064e\u0633\u0652\u0639\u0670\u0649\u06d9",
+        "latin": "Wa amm\u0101 man j\u0101'aka yas\u2018\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u064e\u0645\u0651\u064e\u0627",
+            "\u0645\u064e\u0646\u0652",
+            "\u062c\u064e\u0627\u06e4\u0621\u064e\u0643\u064e",
+            "\u064a\u064e\u0633\u0652\u0639\u0670\u0649\u06d9"
+        ],
+        "translation": "Adapun orang yang datang kepadamu dengan bersegera (untuk mendapatkan pengajaran),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5767,
+        "surah_id": 80,
+        "ayah": 9,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0647\u064f\u0648\u064e \u064a\u064e\u062e\u0652\u0634\u0670\u0649\u06d9",
+        "kitabah": "\u0648\u064e\u0647\u064f\u0648\u064e \u064a\u064e\u062e\u0652\u0634\u0670\u0649\u06d9",
+        "latin": "Wa huwa yakhsy\u0101.",
+        "arabic_words": [
+            "\u0648\u064e\u0647\u064f\u0648\u064e",
+            "\u064a\u064e\u062e\u0652\u0634\u0670\u0649\u06d9"
+        ],
+        "translation": "sedangkan dia takut (kepada Allah),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5768,
+        "surah_id": 80,
+        "ayah": 10,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u064e\u0646\u0652\u062a\u064e \u0639\u064e\u0646\u0652\u0647\u064f \u062a\u064e\u0644\u064e\u0647\u0651\u0670\u0649\u06da",
+        "kitabah": "\u0641\u064e\u0627\u064e\u0646\u0652\u062a\u064e \u0639\u064e\u0646\u0652\u0647\u064f \u062a\u064e\u0644\u064e\u0647\u0651\u0670\u0649\u06da",
+        "latin": "Fa anta \u2018anhu talahh\u0101.",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u064e\u0646\u0652\u062a\u064e",
+            "\u0639\u064e\u0646\u0652\u0647\u064f",
+            "\u062a\u064e\u0644\u064e\u0647\u0651\u0670\u0649\u06da"
+        ],
+        "translation": "malah engkau (Nabi Muhammad) abaikan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5769,
+        "surah_id": 80,
+        "ayah": 11,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0643\u064e\u0644\u0651\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e\u0647\u064e\u0627 \u062a\u064e\u0630\u0652\u0643\u0650\u0631\u064e\u0629\u064c \u06da",
+        "kitabah": "\u0643\u064e\u0644\u0651\u064e\u0627\u0653 \u0627\u0650\u0646\u0651\u064e\u0647\u064e\u0627 \u062a\u064e\u0630\u0652\u0643\u0650\u0631\u064e\u0629\u064c \u06da",
+        "latin": "Kall\u0101 innah\u0101 ta\u017ckirah(tun).",
+        "arabic_words": [
+            "\u0643\u064e\u0644\u0651\u064e\u0627\u0653",
+            "\u0627\u0650\u0646\u0651\u064e\u0647\u064e\u0627",
+            "\u062a\u064e\u0630\u0652\u0643\u0650\u0631\u064e\u0629\u064c \u06da"
+        ],
+        "translation": "Sekali-kali jangan (begitu)! Sesungguhnya (ajaran Allah) itu merupakan peringatan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5770,
+        "surah_id": 80,
+        "ayah": 12,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0645\u064e\u0646\u0652 \u0634\u064e\u0627\u06e4\u0621\u064e \u0630\u064e\u0643\u064e\u0631\u064e\u0647\u0657 \u06d8",
+        "kitabah": "\u0641\u064e\u0645\u064e\u0646\u0652 \u0634\u064e\u0627\u06e4\u0621\u064e \u0630\u064e\u0643\u064e\u0631\u064e\u0647\u0657 \u06d8",
+        "latin": "Faman sy\u0101'a \u017cakarah(\u016b).",
+        "arabic_words": [
+            "\u0641\u064e\u0645\u064e\u0646\u0652",
+            "\u0634\u064e\u0627\u06e4\u0621\u064e",
+            "\u0630\u064e\u0643\u064e\u0631\u064e\u0647\u0657 \u06d8"
+        ],
+        "translation": "Siapa yang menghendaki tentulah akan memperhatikannya",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5771,
+        "surah_id": 80,
+        "ayah": 13,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u0650\u064a\u0652 \u0635\u064f\u062d\u064f\u0641\u064d \u0645\u0651\u064f\u0643\u064e\u0631\u0651\u064e\u0645\u064e\u0629\u064d\u06d9",
+        "kitabah": "\u0641\u0650\u064a\u0652 \u0635\u064f\u062d\u064f\u0641\u064d \u0645\u0651\u064f\u0643\u064e\u0631\u0651\u064e\u0645\u064e\u0629\u064d\u06d9",
+        "latin": "F\u012b \u1e63u\u1e25ufim mukarrmah(tin).",
+        "arabic_words": [
+            "\u0641\u0650\u064a\u0652",
+            "\u0635\u064f\u062d\u064f\u0641\u064d",
+            "\u0645\u0651\u064f\u0643\u064e\u0631\u0651\u064e\u0645\u064e\u0629\u064d\u06d9"
+        ],
+        "translation": "di dalam suhuf yang dimuliakan (di sisi Allah),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5772,
+        "surah_id": 80,
+        "ayah": 14,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0645\u0651\u064e\u0631\u0652\u0641\u064f\u0648\u0652\u0639\u064e\u0629\u064d \u0645\u0651\u064f\u0637\u064e\u0647\u0651\u064e\u0631\u064e\u0629\u064d \u06e2 \u06d9",
+        "kitabah": "\u0645\u0651\u064e\u0631\u0652\u0641\u064f\u0648\u0652\u0639\u064e\u0629\u064d \u0645\u0651\u064f\u0637\u064e\u0647\u0651\u064e\u0631\u064e\u0629\u064d \u06e2 \u06d9",
+        "latin": "Marf\u016b\u2018atim mu\u1e6dahharah(tin).",
+        "arabic_words": [
+            "\u0645\u0651\u064e\u0631\u0652\u0641\u064f\u0648\u0652\u0639\u064e\u0629\u064d",
+            "\u0645\u0651\u064f\u0637\u064e\u0647\u0651\u064e\u0631\u064e\u0629\u064d\u06e2 \u06d9"
+        ],
+        "translation": "yang ditinggikan (kedudukannya) lagi disucikan",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5773,
+        "surah_id": 80,
+        "ayah": 15,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0628\u0650\u0627\u064e\u064a\u0652\u062f\u0650\u064a\u0652 \u0633\u064e\u0641\u064e\u0631\u064e\u0629\u064d\u06d9",
+        "kitabah": "\u0628\u0650\u0627\u064e\u064a\u0652\u062f\u0650\u064a\u0652 \u0633\u064e\u0641\u064e\u0631\u064e\u0629\u064d\u06d9",
+        "latin": "Bi'aid\u012b safarah(tin).",
+        "arabic_words": [
+            "\u0628\u0650\u0627\u064e\u064a\u0652\u062f\u0650\u064a\u0652",
+            "\u0633\u064e\u0641\u064e\u0631\u064e\u0629\u064d\u06d9"
+        ],
+        "translation": "di tangan para utusan (malaikat)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5774,
+        "surah_id": 80,
+        "ayah": 16,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0643\u0650\u0631\u064e\u0627\u0645\u064d\u06e2 \u0628\u064e\u0631\u064e\u0631\u064e\u0629\u064d\u06d7",
+        "kitabah": "\u0643\u0650\u0631\u064e\u0627\u0645\u064d\u06e2 \u0628\u064e\u0631\u064e\u0631\u064e\u0629\u064d\u06d7",
+        "latin": "Kir\u0101mim bararah(tin).",
+        "arabic_words": [
+            "\u0643\u0650\u0631\u064e\u0627\u0645\u064d\u06e2",
+            "\u0628\u064e\u0631\u064e\u0631\u064e\u0629\u064d\u06d7"
+        ],
+        "translation": "yang mulia lagi berbudi.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5775,
+        "surah_id": 80,
+        "ayah": 17,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0642\u064f\u062a\u0650\u0644\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0645\u064e\u0627\u0653 \u0627\u064e\u0643\u0652\u0641\u064e\u0631\u064e\u0647\u0657\u06d7",
+        "kitabah": "\u0642\u064f\u062a\u0650\u0644\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0645\u064e\u0627\u0653 \u0627\u064e\u0643\u0652\u0641\u064e\u0631\u064e\u0647\u0657\u06d7",
+        "latin": "Qutilal-ins\u0101nu m\u0101 akfarah(\u016b).",
+        "arabic_words": [
+            "\u0642\u064f\u062a\u0650\u0644\u064e",
+            "\u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f",
+            "\u0645\u064e\u0627\u0653",
+            "\u0627\u064e\u0643\u0652\u0641\u064e\u0631\u064e\u0647\u0657\u06d7"
+        ],
+        "translation": "Celakalah manusia! Alangkah kufur dia!",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5776,
+        "surah_id": 80,
+        "ayah": 18,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0645\u0650\u0646\u0652 \u0627\u064e\u064a\u0651\u0650 \u0634\u064e\u064a\u0652\u0621\u064d \u062e\u064e\u0644\u064e\u0642\u064e\u0647\u0657\u06d7",
+        "kitabah": "\u0645\u0650\u0646\u0652 \u0627\u064e\u064a\u0651\u0650 \u0634\u064e\u064a\u0652\u0621\u064d \u062e\u064e\u0644\u064e\u0642\u064e\u0647\u0657\u06d7",
+        "latin": "Min ayyi syai'in khalaqah(\u016b).",
+        "arabic_words": [
+            "\u0645\u0650\u0646\u0652",
+            "\u0627\u064e\u064a\u0651\u0650",
+            "\u0634\u064e\u064a\u0652\u0621\u064d",
+            "\u062e\u064e\u0644\u064e\u0642\u064e\u0647\u0657\u06d7"
+        ],
+        "translation": "Dari apakah Dia menciptakannya?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5777,
+        "surah_id": 80,
+        "ayah": 19,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0645\u0650\u0646\u0652 \u0646\u0651\u064f\u0637\u0652\u0641\u064e\u0629\u064d\u06d7 \u062e\u064e\u0644\u064e\u0642\u064e\u0647\u0657 \u0641\u064e\u0642\u064e\u062f\u0651\u064e\u0631\u064e\u0647\u0657\u06d7",
+        "kitabah": "\u0645\u0650\u0646\u0652 \u0646\u0651\u064f\u0637\u0652\u0641\u064e\u0629\u064d\u06d7 \u062e\u064e\u0644\u064e\u0642\u064e\u0647\u0657 \u0641\u064e\u0642\u064e\u062f\u0651\u064e\u0631\u064e\u0647\u0657\u06d7",
+        "latin": "Min nu\u1e6dfah(tin), khalaqah\u016b fa qaddarah(\u016b).",
+        "arabic_words": [
+            "\u0645\u0650\u0646\u0652",
+            "\u0646\u0651\u064f\u0637\u0652\u0641\u064e\u0629\u064d\u06d7",
+            "\u062e\u064e\u0644\u064e\u0642\u064e\u0647\u0657",
+            "\u0641\u064e\u0642\u064e\u062f\u0651\u064e\u0631\u064e\u0647\u0657\u06d7"
+        ],
+        "translation": "Dia menciptakannya dari setetes mani, lalu menentukan (takdir)-nya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5778,
+        "surah_id": 80,
+        "ayah": 20,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062b\u064f\u0645\u0651\u064e \u0627\u0644\u0633\u0651\u064e\u0628\u0650\u064a\u0652\u0644\u064e \u064a\u064e\u0633\u0651\u064e\u0631\u064e\u0647\u0657\u06d9",
+        "kitabah": "\u062b\u064f\u0645\u0651\u064e \u0627\u0644\u0633\u0651\u064e\u0628\u0650\u064a\u0652\u0644\u064e \u064a\u064e\u0633\u0651\u064e\u0631\u064e\u0647\u0657\u06d9",
+        "latin": "\u1e60ummas-sab\u012bla yassarah(\u016b).",
+        "arabic_words": [
+            "\u062b\u064f\u0645\u0651\u064e",
+            "\u0627\u0644\u0633\u0651\u064e\u0628\u0650\u064a\u0652\u0644\u064e",
+            "\u064a\u064e\u0633\u0651\u064e\u0631\u064e\u0647\u0657\u06d9"
+        ],
+        "translation": "Kemudian, jalannya Dia mudahkan.746)",
+        "footnotes": "746) Maksudnya adalah memudahkan kelahirannya atau mempermudah baginya untuk menempuh jalan yang benar atau jalan yang sesat.",
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5779,
+        "surah_id": 80,
+        "ayah": 21,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062b\u064f\u0645\u0651\u064e \u0627\u064e\u0645\u064e\u0627\u062a\u064e\u0647\u0657 \u0641\u064e\u0627\u064e\u0642\u0652\u0628\u064e\u0631\u064e\u0647\u0657\u06d9",
+        "kitabah": "\u062b\u064f\u0645\u0651\u064e \u0627\u064e\u0645\u064e\u0627\u062a\u064e\u0647\u0657 \u0641\u064e\u0627\u064e\u0642\u0652\u0628\u064e\u0631\u064e\u0647\u0657\u06d9",
+        "latin": "\u1e60umma am\u0101tah\u016b fa aqbarah(\u016b).",
+        "arabic_words": [
+            "\u062b\u064f\u0645\u0651\u064e",
+            "\u0627\u064e\u0645\u064e\u0627\u062a\u064e\u0647\u0657",
+            "\u0641\u064e\u0627\u064e\u0642\u0652\u0628\u064e\u0631\u064e\u0647\u0657\u06d9"
+        ],
+        "translation": "Kemudian, Dia mematikannya lalu menguburkannya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5780,
+        "surah_id": 80,
+        "ayah": 22,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062b\u064f\u0645\u0651\u064e \u0627\u0650\u0630\u064e\u0627 \u0634\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0646\u0652\u0634\u064e\u0631\u064e\u0647\u0657\u06d7",
+        "kitabah": "\u062b\u064f\u0645\u0651\u064e \u0627\u0650\u0630\u064e\u0627 \u0634\u064e\u0627\u06e4\u0621\u064e \u0627\u064e\u0646\u0652\u0634\u064e\u0631\u064e\u0647\u0657\u06d7",
+        "latin": "\u1e60umma i\u017c\u0101 sy\u0101'a ansyarah(\u016b).",
+        "arabic_words": [
+            "\u062b\u064f\u0645\u0651\u064e",
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u0634\u064e\u0627\u06e4\u0621\u064e",
+            "\u0627\u064e\u0646\u0652\u0634\u064e\u0631\u064e\u0647\u0657\u06d7"
+        ],
+        "translation": "Kemudian, jika menghendaki, Dia membangkitkannya kembali.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5781,
+        "surah_id": 80,
+        "ayah": 23,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0644\u064e\u0645\u0651\u064e\u0627 \u064a\u064e\u0642\u0652\u0636\u0650 \u0645\u064e\u0627\u0653 \u0627\u064e\u0645\u064e\u0631\u064e\u0647\u0657\u06d7",
+        "kitabah": "\u0643\u064e\u0644\u0651\u064e\u0627 \u0644\u064e\u0645\u0651\u064e\u0627 \u064a\u064e\u0642\u0652\u0636\u0650 \u0645\u064e\u0627\u0653 \u0627\u064e\u0645\u064e\u0631\u064e\u0647\u0657\u06d7",
+        "latin": "Kall\u0101 lamm\u0101 yaq\u1e0di m\u0101 amarah(\u016b).",
+        "arabic_words": [
+            "\u0643\u064e\u0644\u0651\u064e\u0627",
+            "\u0644\u064e\u0645\u0651\u064e\u0627",
+            "\u064a\u064e\u0642\u0652\u0636\u0650",
+            "\u0645\u064e\u0627\u0653",
+            "\u0627\u064e\u0645\u064e\u0631\u064e\u0647\u0657\u06d7"
+        ],
+        "translation": "Sekali-kali jangan (begitu)! Dia (manusia) itu belum melaksanakan apa yang Dia (Allah) perintahkan kepadanya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5782,
+        "surah_id": 80,
+        "ayah": 24,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0644\u0652\u064a\u064e\u0646\u0652\u0638\u064f\u0631\u0650 \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0627\u0650\u0644\u0670\u0649 \u0637\u064e\u0639\u064e\u0627\u0645\u0650\u0647\u0656\u0653 \u06d9 ",
+        "kitabah": "\u0641\u064e\u0644\u0652\u064a\u064e\u0646\u0652\u0638\u064f\u0631\u0650 \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f \u0627\u0650\u0644\u0670\u0649 \u0637\u064e\u0639\u064e\u0627\u0645\u0650\u0647\u0656\u0653 \u06d9 ",
+        "latin": "Falyan\u1e93uril-ins\u0101nu il\u0101 \u1e6da\u2018\u0101mih(\u012b).",
+        "arabic_words": [
+            "\u0641\u064e\u0644\u0652\u064a\u064e\u0646\u0652\u0638\u064f\u0631\u0650",
+            "\u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064f",
+            "\u0627\u0650\u0644\u0670\u0649",
+            "\u0637\u064e\u0639\u064e\u0627\u0645\u0650\u0647\u0656\u0653 \u06d9"
+        ],
+        "translation": " Maka, hendaklah manusia itu memperhatikan makanannya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5783,
+        "surah_id": 80,
+        "ayah": 25,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064e\u0646\u0651\u064e\u0627 \u0635\u064e\u0628\u064e\u0628\u0652\u0646\u064e\u0627 \u0627\u0644\u0652\u0645\u064e\u0627\u06e4\u0621\u064e \u0635\u064e\u0628\u0651\u064b\u0627\u06d9",
+        "kitabah": "\u0627\u064e\u0646\u0651\u064e\u0627 \u0635\u064e\u0628\u064e\u0628\u0652\u0646\u064e\u0627 \u0627\u0644\u0652\u0645\u064e\u0627\u06e4\u0621\u064e \u0635\u064e\u0628\u0651\u064b\u0627\u06d9",
+        "latin": "Ann\u0101 \u1e63ababnal-m\u0101'a \u1e63abb\u0101(n).",
+        "arabic_words": [
+            "\u0627\u064e\u0646\u0651\u064e\u0627",
+            "\u0635\u064e\u0628\u064e\u0628\u0652\u0646\u064e\u0627",
+            "\u0627\u0644\u0652\u0645\u064e\u0627\u06e4\u0621\u064e",
+            "\u0635\u064e\u0628\u0651\u064b\u0627\u06d9"
+        ],
+        "translation": "Sesungguhnya Kami telah mencurahkan air (dari langit) dengan berlimpah. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5784,
+        "surah_id": 80,
+        "ayah": 26,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062b\u064f\u0645\u0651\u064e \u0634\u064e\u0642\u064e\u0642\u0652\u0646\u064e\u0627 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064e \u0634\u064e\u0642\u0651\u064b\u0627\u06d9",
+        "kitabah": "\u062b\u064f\u0645\u0651\u064e \u0634\u064e\u0642\u064e\u0642\u0652\u0646\u064e\u0627 \u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064e \u0634\u064e\u0642\u0651\u064b\u0627\u06d9",
+        "latin": "\u1e60umma syaqaqnal-ar\u1e0da syaqq\u0101(n).",
+        "arabic_words": [
+            "\u062b\u064f\u0645\u0651\u064e",
+            "\u0634\u064e\u0642\u064e\u0642\u0652\u0646\u064e\u0627",
+            "\u0627\u0644\u0652\u0627\u064e\u0631\u0652\u0636\u064e",
+            "\u0634\u064e\u0642\u0651\u064b\u0627\u06d9"
+        ],
+        "translation": "Kemudian, Kami belah bumi dengan sebaik-baiknya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5785,
+        "surah_id": 80,
+        "ayah": 27,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u064e\u0646\u0652\u06e2\u0628\u064e\u062a\u0652\u0646\u064e\u0627 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u062d\u064e\u0628\u0651\u064b\u0627\u06d9",
+        "kitabah": "\u0641\u064e\u0627\u064e\u0646\u0652\u06e2\u0628\u064e\u062a\u0652\u0646\u064e\u0627 \u0641\u0650\u064a\u0652\u0647\u064e\u0627 \u062d\u064e\u0628\u0651\u064b\u0627\u06d9",
+        "latin": "Fa'ambatn\u0101 f\u012bh\u0101 \u1e25abb\u0101(n).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u064e\u0646\u0652\u06e2\u0628\u064e\u062a\u0652\u0646\u064e\u0627",
+            "\u0641\u0650\u064a\u0652\u0647\u064e\u0627",
+            "\u062d\u064e\u0628\u0651\u064b\u0627\u06d9"
+        ],
+        "translation": "Lalu, Kami tumbuhkan padanya biji-bijian,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5786,
+        "surah_id": 80,
+        "ayah": 28,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u0651\u064e\u0639\u0650\u0646\u064e\u0628\u064b\u0627 \u0648\u0651\u064e\u0642\u064e\u0636\u0652\u0628\u064b\u0627\u06d9",
+        "kitabah": "\u0648\u0651\u064e\u0639\u0650\u0646\u064e\u0628\u064b\u0627 \u0648\u0651\u064e\u0642\u064e\u0636\u0652\u0628\u064b\u0627\u06d9",
+        "latin": "Wa \u2018inabaw wa qa\u1e0db\u0101(n).",
+        "arabic_words": [
+            "\u0648\u0651\u064e\u0639\u0650\u0646\u064e\u0628\u064b\u0627",
+            "\u0648\u0651\u064e\u0642\u064e\u0636\u0652\u0628\u064b\u0627\u06d9"
+        ],
+        "translation": "anggur, sayur-sayuran,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5787,
+        "surah_id": 80,
+        "ayah": 29,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u0651\u064e\u0632\u064e\u064a\u0652\u062a\u064f\u0648\u0652\u0646\u064b\u0627 \u0648\u0651\u064e\u0646\u064e\u062e\u0652\u0644\u064b\u0627\u06d9",
+        "kitabah": "\u0648\u0651\u064e\u0632\u064e\u064a\u0652\u062a\u064f\u0648\u0652\u0646\u064b\u0627 \u0648\u0651\u064e\u0646\u064e\u062e\u0652\u0644\u064b\u0627\u06d9",
+        "latin": "Wa zait\u016bnaw wa nakhl\u0101(n).",
+        "arabic_words": [
+            "\u0648\u0651\u064e\u0632\u064e\u064a\u0652\u062a\u064f\u0648\u0652\u0646\u064b\u0627",
+            "\u0648\u0651\u064e\u0646\u064e\u062e\u0652\u0644\u064b\u0627\u06d9"
+        ],
+        "translation": "zaitun, pohon kurma,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5788,
+        "surah_id": 80,
+        "ayah": 30,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u0651\u064e\u062d\u064e\u062f\u064e\u0627\u06e4\u0649\u0655\u0650\u0642\u064e \u063a\u064f\u0644\u0652\u0628\u064b\u0627",
+        "kitabah": "\u0648\u0651\u064e\u062d\u064e\u062f\u064e\u0627\u06e4\u0649\u0655\u0650\u0642\u064e \u063a\u064f\u0644\u0652\u0628\u064b\u0627",
+        "latin": "Wa \u1e25ad\u0101'iqa gulb\u0101(n).",
+        "arabic_words": [
+            "\u0648\u0651\u064e\u062d\u064e\u062f\u064e\u0627\u06e4\u0649\u0655\u0650\u0642\u064e",
+            "\u063a\u064f\u0644\u0652\u0628\u064b\u0627"
+        ],
+        "translation": "kebun-kebun (yang) rindang,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5789,
+        "surah_id": 80,
+        "ayah": 31,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0641\u064e\u0627\u0643\u0650\u0647\u064e\u0629\u064b \u0648\u0651\u064e\u0627\u064e\u0628\u0651\u064b\u0627",
+        "kitabah": "\u0648\u064e\u0641\u064e\u0627\u0643\u0650\u0647\u064e\u0629\u064b \u0648\u0651\u064e\u0627\u064e\u0628\u0651\u064b\u0627",
+        "latin": "Wa f\u0101kihataw wa abb\u0101(n).",
+        "arabic_words": [
+            "\u0648\u064e\u0641\u064e\u0627\u0643\u0650\u0647\u064e\u0629\u064b",
+            "\u0648\u0651\u064e\u0627\u064e\u0628\u0651\u064b\u0627"
+        ],
+        "translation": "buah-buahan, dan rerumputan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5790,
+        "surah_id": 80,
+        "ayah": 32,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0645\u064e\u062a\u064e\u0627\u0639\u064b\u0627 \u0644\u0651\u064e\u0643\u064f\u0645\u0652 \u0648\u064e\u0644\u0650\u0627\u064e\u0646\u0652\u0639\u064e\u0627\u0645\u0650\u0643\u064f\u0645\u0652\u06d7",
+        "kitabah": "\u0645\u064e\u062a\u064e\u0627\u0639\u064b\u0627 \u0644\u0651\u064e\u0643\u064f\u0645\u0652 \u0648\u064e\u0644\u0650\u0627\u064e\u0646\u0652\u0639\u064e\u0627\u0645\u0650\u0643\u064f\u0645\u0652\u06d7",
+        "latin": "Mat\u0101\u2018al lakum wa li'an\u2018\u0101mikum.",
+        "arabic_words": [
+            "\u0645\u064e\u062a\u064e\u0627\u0639\u064b\u0627",
+            "\u0644\u0651\u064e\u0643\u064f\u0645\u0652",
+            "\u0648\u064e\u0644\u0650\u0627\u064e\u0646\u0652\u0639\u064e\u0627\u0645\u0650\u0643\u064f\u0645\u0652\u06d7"
+        ],
+        "translation": "(Semua itu disediakan) untuk kesenanganmu dan hewan-hewan ternakmu.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5791,
+        "surah_id": 80,
+        "ayah": 33,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u0650\u0630\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e\u062a\u0650 \u0627\u0644\u0635\u0651\u064e\u0627\u06e4\u062e\u0651\u064e\u0629\u064f \u06d6",
+        "kitabah": "\u0641\u064e\u0627\u0650\u0630\u064e\u0627 \u062c\u064e\u0627\u06e4\u0621\u064e\u062a\u0650 \u0627\u0644\u0635\u0651\u064e\u0627\u06e4\u062e\u0651\u064e\u0629\u064f \u06d6",
+        "latin": "Fa i\u017c\u0101 j\u0101'ati\u1e63-\u1e63\u0101khkhah(tu).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u0650\u0630\u064e\u0627",
+            "\u062c\u064e\u0627\u06e4\u0621\u064e\u062a\u0650",
+            "\u0627\u0644\u0635\u0651\u064e\u0627\u06e4\u062e\u0651\u064e\u0629\u064f \u06d6"
+        ],
+        "translation": "Maka, apabila datang suara yang memekakkan (dari tiupan sangkakala),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5792,
+        "surah_id": 80,
+        "ayah": 34,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u064a\u064e\u0648\u0652\u0645\u064e \u064a\u064e\u0641\u0650\u0631\u0651\u064f \u0627\u0644\u0652\u0645\u064e\u0631\u0652\u0621\u064f \u0645\u0650\u0646\u0652 \u0627\u064e\u062e\u0650\u064a\u0652\u0647\u0650\u06d9",
+        "kitabah": "\u064a\u064e\u0648\u0652\u0645\u064e \u064a\u064e\u0641\u0650\u0631\u0651\u064f \u0627\u0644\u0652\u0645\u064e\u0631\u0652\u0621\u064f \u0645\u0650\u0646\u0652 \u0627\u064e\u062e\u0650\u064a\u0652\u0647\u0650\u06d9",
+        "latin": "Yauma yafirrul-mar'u min akh\u012bh(i).",
+        "arabic_words": [
+            "\u064a\u064e\u0648\u0652\u0645\u064e",
+            "\u064a\u064e\u0641\u0650\u0631\u0651\u064f",
+            "\u0627\u0644\u0652\u0645\u064e\u0631\u0652\u0621\u064f",
+            "\u0645\u0650\u0646\u0652",
+            "\u0627\u064e\u062e\u0650\u064a\u0652\u0647\u0650\u06d9"
+        ],
+        "translation": "pada hari itu manusia lari dari saudaranya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5793,
+        "surah_id": 80,
+        "ayah": 35,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u064f\u0645\u0651\u0650\u0647\u0656 \u0648\u064e\u0627\u064e\u0628\u0650\u064a\u0652\u0647\u0650\u06d9",
+        "kitabah": "\u0648\u064e\u0627\u064f\u0645\u0651\u0650\u0647\u0656 \u0648\u064e\u0627\u064e\u0628\u0650\u064a\u0652\u0647\u0650\u06d9",
+        "latin": "Wa ummih\u012b wa ab\u012bh(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u064f\u0645\u0651\u0650\u0647\u0656",
+            "\u0648\u064e\u0627\u064e\u0628\u0650\u064a\u0652\u0647\u0650\u06d9"
+        ],
+        "translation": "(dari) ibu dan bapaknya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5794,
+        "surah_id": 80,
+        "ayah": 36,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0635\u064e\u0627\u062d\u0650\u0628\u064e\u062a\u0650\u0647\u0656 \u0648\u064e\u0628\u064e\u0646\u0650\u064a\u0652\u0647\u0650\u06d7",
+        "kitabah": "\u0648\u064e\u0635\u064e\u0627\u062d\u0650\u0628\u064e\u062a\u0650\u0647\u0656 \u0648\u064e\u0628\u064e\u0646\u0650\u064a\u0652\u0647\u0650\u06d7",
+        "latin": "Wa \u1e63\u0101\u1e25ibatih\u012b wa ban\u012bh(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0635\u064e\u0627\u062d\u0650\u0628\u064e\u062a\u0650\u0647\u0656",
+            "\u0648\u064e\u0628\u064e\u0646\u0650\u064a\u0652\u0647\u0650\u06d7"
+        ],
+        "translation": "serta (dari) istri dan anak-anaknya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5795,
+        "surah_id": 80,
+        "ayah": 37,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0644\u0650\u0643\u064f\u0644\u0651\u0650 \u0627\u0645\u0652\u0631\u0650\u0626\u064d \u0645\u0651\u0650\u0646\u0652\u0647\u064f\u0645\u0652 \u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0634\u064e\u0623\u0652\u0646\u064c \u064a\u0651\u064f\u063a\u0652\u0646\u0650\u064a\u0652\u0647\u0650\u06d7",
+        "kitabah": "\u0644\u0650\u0643\u064f\u0644\u0651\u0650 \u0627\u0645\u0652\u0631\u0650\u0626\u064d \u0645\u0651\u0650\u0646\u0652\u0647\u064f\u0645\u0652 \u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0634\u064e\u0623\u0652\u0646\u064c \u064a\u0651\u064f\u063a\u0652\u0646\u0650\u064a\u0652\u0647\u0650\u06d7",
+        "latin": "Likullimri'im minhum yauma'i\u017cin sya'nuy yugn\u012bh(i).",
+        "arabic_words": [
+            "\u0644\u0650\u0643\u064f\u0644\u0651\u0650",
+            "\u0627\u0645\u0652\u0631\u0650\u0626\u064d",
+            "\u0645\u0651\u0650\u0646\u0652\u0647\u064f\u0645\u0652",
+            "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d",
+            "\u0634\u064e\u0623\u0652\u0646\u064c",
+            "\u064a\u0651\u064f\u063a\u0652\u0646\u0650\u064a\u0652\u0647\u0650\u06d7"
+        ],
+        "translation": "Setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5796,
+        "surah_id": 80,
+        "ayah": 38,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064f\u062c\u064f\u0648\u0652\u0647\u064c \u064a\u0651\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0645\u0651\u064f\u0633\u0652\u0641\u0650\u0631\u064e\u0629\u064c\u06d9",
+        "kitabah": "\u0648\u064f\u062c\u064f\u0648\u0652\u0647\u064c \u064a\u0651\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0645\u0651\u064f\u0633\u0652\u0641\u0650\u0631\u064e\u0629\u064c\u06d9",
+        "latin": "Wuj\u016bhuy yauma'i\u017cim musfirah(tun).",
+        "arabic_words": [
+            "\u0648\u064f\u062c\u064f\u0648\u0652\u0647\u064c",
+            "\u064a\u0651\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d",
+            "\u0645\u0651\u064f\u0633\u0652\u0641\u0650\u0631\u064e\u0629\u064c\u06d9"
+        ],
+        "translation": "Pada hari itu ada wajah-wajah yang berseri-seri,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5797,
+        "surah_id": 80,
+        "ayah": 39,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0636\u064e\u0627\u062d\u0650\u0643\u064e\u0629\u064c \u0645\u0651\u064f\u0633\u0652\u062a\u064e\u0628\u0652\u0634\u0650\u0631\u064e\u0629\u064c \u06da",
+        "kitabah": "\u0636\u064e\u0627\u062d\u0650\u0643\u064e\u0629\u064c \u0645\u0651\u064f\u0633\u0652\u062a\u064e\u0628\u0652\u0634\u0650\u0631\u064e\u0629\u064c \u06da",
+        "latin": "\u1e0c\u0101\u1e25ikatum mustabsyirah(tun).",
+        "arabic_words": [
+            "\u0636\u064e\u0627\u062d\u0650\u0643\u064e\u0629\u064c",
+            "\u0645\u0651\u064f\u0633\u0652\u062a\u064e\u0628\u0652\u0634\u0650\u0631\u064e\u0629\u064c \u06da"
+        ],
+        "translation": "tertawa lagi gembira ria.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5798,
+        "surah_id": 80,
+        "ayah": 40,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0648\u064f\u062c\u064f\u0648\u0652\u0647\u064c \u064a\u0651\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u064e\u0627 \u063a\u064e\u0628\u064e\u0631\u064e\u0629\u064c\u06d9",
+        "kitabah": "\u0648\u064e\u0648\u064f\u062c\u064f\u0648\u0652\u0647\u064c \u064a\u0651\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u064e\u0627 \u063a\u064e\u0628\u064e\u0631\u064e\u0629\u064c\u06d9",
+        "latin": "Wa wuj\u016bhuy yauma'i\u017cin \u2018alaih\u0101 gabarah(tun).",
+        "arabic_words": [
+            "\u0648\u064e\u0648\u064f\u062c\u064f\u0648\u0652\u0647\u064c",
+            "\u064a\u0651\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d",
+            "\u0639\u064e\u0644\u064e\u064a\u0652\u0647\u064e\u0627",
+            "\u063a\u064e\u0628\u064e\u0631\u064e\u0629\u064c\u06d9"
+        ],
+        "translation": "Pada hari itu ada (pula) wajah-wajah yang tertutup debu (suram)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5799,
+        "surah_id": 80,
+        "ayah": 41,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u062a\u064e\u0631\u0652\u0647\u064e\u0642\u064f\u0647\u064e\u0627 \u0642\u064e\u062a\u064e\u0631\u064e\u0629\u064c \u06d7",
+        "kitabah": "\u062a\u064e\u0631\u0652\u0647\u064e\u0642\u064f\u0647\u064e\u0627 \u0642\u064e\u062a\u064e\u0631\u064e\u0629\u064c \u06d7",
+        "latin": "Tarhaquh\u0101 qatarah(tun).",
+        "arabic_words": [
+            "\u062a\u064e\u0631\u0652\u0647\u064e\u0642\u064f\u0647\u064e\u0627",
+            "\u0642\u064e\u062a\u064e\u0631\u064e\u0629\u064c \u06d7"
+        ],
+        "translation": "dan tertutup oleh kegelapan (ditimpa kehinaan dan kesusahan).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5800,
+        "surah_id": 80,
+        "ayah": 42,
+        "page": 585,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u0647\u064f\u0645\u064f \u0627\u0644\u0652\u0643\u064e\u0641\u064e\u0631\u064e\u0629\u064f \u0627\u0644\u0652\u0641\u064e\u062c\u064e\u0631\u064e\u0629\u064f \u08d6",
+        "kitabah": "\u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e \u0647\u064f\u0645\u064f \u0627\u0644\u0652\u0643\u064e\u0641\u064e\u0631\u064e\u0629\u064f \u0627\u0644\u0652\u0641\u064e\u062c\u064e\u0631\u064e\u0629\u064f \u08d6",
+        "latin": "Ul\u0101'ika humul-kafaratul-fajarah(tu).",
+        "arabic_words": [
+            "\u0627\u064f\u0648\u0644\u0670\u06e4\u0649\u0655\u0650\u0643\u064e",
+            "\u0647\u064f\u0645\u064f",
+            "\u0627\u0644\u0652\u0643\u064e\u0641\u064e\u0631\u064e\u0629\u064f",
+            "\u0627\u0644\u0652\u0641\u064e\u062c\u064e\u0631\u064e\u0629\u064f \u08d6"
+        ],
+        "translation": "Mereka itulah orang-orang kafir lagi para pendurhaka.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 80,
+            "arabic": " \u0639\u0628\u0633",
+            "latin": "\u2018Abasa",
+            "transliteration": "\u2018Abasa",
+            "translation": "Berwajah Masam",
+            "num_ayah": 42,
+            "page": 585,
+            "location": "Makkiyah"
+        }
+    }
+]

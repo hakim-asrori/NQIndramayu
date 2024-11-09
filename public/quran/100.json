@@ -1,0 +1,340 @@
+[
+    {
+        "id": 6147,
+        "surah_id": 100,
+        "ayah": 1,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0652\u0639\u0670\u062f\u0650\u064a\u0670\u062a\u0650 \u0636\u064e\u0628\u0652\u062d\u064b\u0627\u06d9 ",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0652\u0639\u0670\u062f\u0650\u064a\u0670\u062a\u0650 \u0636\u064e\u0628\u0652\u062d\u064b\u0627\u06d9 ",
+        "latin": "Wal-\u2018\u0101diy\u0101ti \u1e0dab\u1e25\u0101(n). ",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0652\u0639\u0670\u062f\u0650\u064a\u0670\u062a\u0650",
+            "\u0636\u064e\u0628\u0652\u062d\u064b\u0627\u06d9"
+        ],
+        "translation": "Demi kuda-kuda perang yang berlari kencang terengah-engah,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6148,
+        "surah_id": 100,
+        "ayah": 2,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u0644\u0652\u0645\u064f\u0648\u0652\u0631\u0650\u064a\u0670\u062a\u0650 \u0642\u064e\u062f\u0652\u062d\u064b\u0627\u06d9",
+        "kitabah": "\u0641\u064e\u0627\u0644\u0652\u0645\u064f\u0648\u0652\u0631\u0650\u064a\u0670\u062a\u0650 \u0642\u064e\u062f\u0652\u062d\u064b\u0627\u06d9",
+        "latin": "Fal-m\u016briy\u0101ti qad\u1e25\u0101(n).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u0644\u0652\u0645\u064f\u0648\u0652\u0631\u0650\u064a\u0670\u062a\u0650",
+            "\u0642\u064e\u062f\u0652\u062d\u064b\u0627\u06d9"
+        ],
+        "translation": "yang memercikkan bunga api (dengan entakan kakinya),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6149,
+        "surah_id": 100,
+        "ayah": 3,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u0644\u0652\u0645\u064f\u063a\u0650\u064a\u0652\u0631\u0670\u062a\u0650 \u0635\u064f\u0628\u0652\u062d\u064b\u0627\u06d9",
+        "kitabah": "\u0641\u064e\u0627\u0644\u0652\u0645\u064f\u063a\u0650\u064a\u0652\u0631\u0670\u062a\u0650 \u0635\u064f\u0628\u0652\u062d\u064b\u0627\u06d9",
+        "latin": "Fal-mug\u012br\u0101ti \u1e63ub\u1e25\u0101(n).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u0644\u0652\u0645\u064f\u063a\u0650\u064a\u0652\u0631\u0670\u062a\u0650",
+            "\u0635\u064f\u0628\u0652\u062d\u064b\u0627\u06d9"
+        ],
+        "translation": "yang menyerang (dengan tiba-tiba) pada waktu pagi",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6150,
+        "surah_id": 100,
+        "ayah": 4,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0627\u064e\u062b\u064e\u0631\u0652\u0646\u064e \u0628\u0650\u0647\u0656 \u0646\u064e\u0642\u0652\u0639\u064b\u0627\u06d9",
+        "kitabah": "\u0641\u064e\u0627\u064e\u062b\u064e\u0631\u0652\u0646\u064e \u0628\u0650\u0647\u0656 \u0646\u064e\u0642\u0652\u0639\u064b\u0627\u06d9",
+        "latin": "Fa'a\u1e61arna bih\u012b naq\u2018\u0101(n).",
+        "arabic_words": [
+            "\u0641\u064e\u0627\u064e\u062b\u064e\u0631\u0652\u0646\u064e",
+            "\u0628\u0650\u0647\u0656",
+            "\u0646\u064e\u0642\u0652\u0639\u064b\u0627\u06d9"
+        ],
+        "translation": "sehingga menerbangkan debu,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6151,
+        "surah_id": 100,
+        "ayah": 5,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0641\u064e\u0648\u064e\u0633\u064e\u0637\u0652\u0646\u064e \u0628\u0650\u0647\u0656 \u062c\u064e\u0645\u0652\u0639\u064b\u0627\u06d9",
+        "kitabah": "\u0641\u064e\u0648\u064e\u0633\u064e\u0637\u0652\u0646\u064e \u0628\u0650\u0647\u0656 \u062c\u064e\u0645\u0652\u0639\u064b\u0627\u06d9",
+        "latin": "Fawasa\u1e6dna bih\u012b jam\u2018\u0101(n).",
+        "arabic_words": [
+            "\u0641\u064e\u0648\u064e\u0633\u064e\u0637\u0652\u0646\u064e",
+            "\u0628\u0650\u0647\u0656",
+            "\u062c\u064e\u0645\u0652\u0639\u064b\u0627\u06d9"
+        ],
+        "translation": "lalu menyerbu ke tengah-tengah kumpulan musuh,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6152,
+        "surah_id": 100,
+        "ayah": 6,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0644\u0650\u0631\u064e\u0628\u0651\u0650\u0647\u0656 \u0644\u064e\u0643\u064e\u0646\u064f\u0648\u0652\u062f\u064c \u06da",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0644\u0650\u0631\u064e\u0628\u0651\u0650\u0647\u0656 \u0644\u064e\u0643\u064e\u0646\u064f\u0648\u0652\u062f\u064c \u06da",
+        "latin": "Innal-ins\u0101na lirabbih\u012b lakan\u016bd(un).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e",
+            "\u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e",
+            "\u0644\u0650\u0631\u064e\u0628\u0651\u0650\u0647\u0656",
+            "\u0644\u064e\u0643\u064e\u0646\u064f\u0648\u0652\u062f\u064c \u06da"
+        ],
+        "translation": "sesungguhnya manusia itu sangatlah ingkar kepada Tuhannya. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6153,
+        "surah_id": 100,
+        "ayah": 7,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0644\u0670\u0649 \u0630\u0670\u0644\u0650\u0643\u064e \u0644\u064e\u0634\u064e\u0647\u0650\u064a\u0652\u062f\u064c\u06da",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0639\u064e\u0644\u0670\u0649 \u0630\u0670\u0644\u0650\u0643\u064e \u0644\u064e\u0634\u064e\u0647\u0650\u064a\u0652\u062f\u064c\u06da",
+        "latin": "Wa innah\u016b \u2018al\u0101 \u017c\u0101lika lasyah\u012bd(un).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0647\u0657",
+            "\u0639\u064e\u0644\u0670\u0649",
+            "\u0630\u0670\u0644\u0650\u0643\u064e",
+            "\u0644\u064e\u0634\u064e\u0647\u0650\u064a\u0652\u062f\u064c\u06da"
+        ],
+        "translation": "Sesungguhnya dia benar-benar menjadi saksi atas hal itu (keingkarannya).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6154,
+        "surah_id": 100,
+        "ayah": 8,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u0650\u062d\u064f\u0628\u0651\u0650 \u0627\u0644\u0652\u062e\u064e\u064a\u0652\u0631\u0650 \u0644\u064e\u0634\u064e\u062f\u0650\u064a\u0652\u062f\u064c \u06d7",
+        "kitabah": "\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0647\u0657 \u0644\u0650\u062d\u064f\u0628\u0651\u0650 \u0627\u0644\u0652\u062e\u064e\u064a\u0652\u0631\u0650 \u0644\u064e\u0634\u064e\u062f\u0650\u064a\u0652\u062f\u064c \u06d7",
+        "latin": "Wa innah\u016b li\u1e25ubbil-khairi lasyad\u012bd(un).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0650\u0646\u0651\u064e\u0647\u0657",
+            "\u0644\u0650\u062d\u064f\u0628\u0651\u0650",
+            "\u0627\u0644\u0652\u062e\u064e\u064a\u0652\u0631\u0650",
+            "\u0644\u064e\u0634\u064e\u062f\u0650\u064a\u0652\u062f\u064c \u06d7"
+        ],
+        "translation": "Sesungguhnya cintanya pada harta benar-benar berlebihan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6155,
+        "surah_id": 100,
+        "ayah": 9,
+        "page": 599,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u06de \u0627\u064e\u0641\u064e\u0644\u064e\u0627 \u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0627\u0650\u0630\u064e\u0627 \u0628\u064f\u0639\u0652\u062b\u0650\u0631\u064e \u0645\u064e\u0627 \u0641\u0650\u0649 \u0627\u0644\u0652\u0642\u064f\u0628\u064f\u0648\u0652\u0631\u0650\u06d9",
+        "kitabah": "\u06de \u0627\u064e\u0641\u064e\u0644\u064e\u0627 \u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f \u0627\u0650\u0630\u064e\u0627 \u0628\u064f\u0639\u0652\u062b\u0650\u0631\u064e \u0645\u064e\u0627 \u0641\u0650\u0649 \u0627\u0644\u0652\u0642\u064f\u0628\u064f\u0648\u0652\u0631\u0650\u06d9",
+        "latin": "Afal\u0101 ya\u2018lamu i\u017c\u0101 bu\u2018\u1e61ira m\u0101 fil-qub\u016br(i).",
+        "arabic_words": [
+            "\u06de",
+            "\u0627\u064e\u0641\u064e\u0644\u064e\u0627",
+            "\u064a\u064e\u0639\u0652\u0644\u064e\u0645\u064f",
+            "\u0627\u0650\u0630\u064e\u0627",
+            "\u0628\u064f\u0639\u0652\u062b\u0650\u0631\u064e",
+            "\u0645\u064e\u0627",
+            "\u0641\u0650\u0649",
+            "\u0627\u0644\u0652\u0642\u064f\u0628\u064f\u0648\u0652\u0631\u0650\u06d9"
+        ],
+        "translation": "Maka, tidakkah dia mengetahui (apa yang akan dialaminya) apabila dikeluarkan apa yang ada di dalam kubur",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6156,
+        "surah_id": 100,
+        "ayah": 10,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u062d\u064f\u0635\u0651\u0650\u0644\u064e \u0645\u064e\u0627 \u0641\u0650\u0649 \u0627\u0644\u0635\u0651\u064f\u062f\u064f\u0648\u0652\u0631\u0650\u06d9",
+        "kitabah": "\u0648\u064e\u062d\u064f\u0635\u0651\u0650\u0644\u064e \u0645\u064e\u0627 \u0641\u0650\u0649 \u0627\u0644\u0635\u0651\u064f\u062f\u064f\u0648\u0652\u0631\u0650\u06d9",
+        "latin": "Wa \u1e25u\u1e63\u1e63ila m\u0101 fi\u1e63-\u1e63ud\u016br(i).",
+        "arabic_words": [
+            "\u0648\u064e\u062d\u064f\u0635\u0651\u0650\u0644\u064e",
+            "\u0645\u064e\u0627",
+            "\u0641\u0650\u0649",
+            "\u0627\u0644\u0635\u0651\u064f\u062f\u064f\u0648\u0652\u0631\u0650\u06d9"
+        ],
+        "translation": "dan ditampakkan apa yang tersimpan di dalam dada?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6157,
+        "surah_id": 100,
+        "ayah": 11,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u064e\u0647\u064f\u0645\u0652 \u0628\u0650\u0647\u0650\u0645\u0652 \u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0644\u0651\u064e\u062e\u064e\u0628\u0650\u064a\u0652\u0631\u064c \u08d6",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e \u0631\u064e\u0628\u0651\u064e\u0647\u064f\u0645\u0652 \u0628\u0650\u0647\u0650\u0645\u0652 \u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d \u0644\u0651\u064e\u062e\u064e\u0628\u0650\u064a\u0652\u0631\u064c \u08d6",
+        "latin": "Inna rabbahum bihim yauma'i\u017cil lakhab\u012br(un).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e",
+            "\u0631\u064e\u0628\u0651\u064e\u0647\u064f\u0645\u0652",
+            "\u0628\u0650\u0647\u0650\u0645\u0652",
+            "\u064a\u064e\u0648\u0652\u0645\u064e\u0649\u0655\u0650\u0630\u064d",
+            "\u0644\u0651\u064e\u062e\u064e\u0628\u0650\u064a\u0652\u0631\u064c \u08d6"
+        ],
+        "translation": "Sesungguhnya Tuhan mereka pada hari itu benar-benar Maha Teliti terhadap (keadaan) mereka.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+            "latin": "Al-\u2018\u0100diy\u0101t",
+            "transliteration": "Al-\u2018Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    }
+]

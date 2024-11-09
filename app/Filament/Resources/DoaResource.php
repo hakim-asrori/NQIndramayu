@@ -2,11 +2,13 @@
 
 namespace App\Filament\Resources;
 
-use App\Filament\Resources\SholawatResource\Pages;
-use App\Filament\Resources\SholawatResource\RelationManagers;
-use App\Models\Sholawat;
+use App\Filament\Resources\DoaResource\Pages;
+use App\Filament\Resources\DoaResource\RelationManagers;
+use App\Models\Doa;
+use App\Models\DoaCategory;
 use Filament\Forms;
-use Filament\Forms\Components\RichEditor;
+use Filament\Forms\Components\Select;
+use Filament\Forms\Components\Textarea;
 use Filament\Forms\Components\TextInput;
 use Filament\Forms\Form;
 use Filament\Notifications\Notification;
@@ -19,20 +21,33 @@ use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 
-class SholawatResource extends Resource
+class DoaResource extends Resource
 {
-    protected static ?string $model = Sholawat::class;
+    protected static ?string $model = Doa::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-book-open';
+    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
 
-    protected static ?string $navigationLabel = 'Sholawat';
+    protected static ?string $navigationGroup = 'Catalog';
+
+    protected static ?string $navigationLabel = 'Doa';
 
     public static function form(Form $form): Form
     {
         return $form
             ->schema([
-                TextInput::make("title")->required()->maxLength(255)->columnSpanFull(),
-                RichEditor::make("content")->required()->columnSpanFull()
+                Select::make("category_id")
+                    ->label("Category")
+                    ->options(DoaCategory::all()->pluck("title", "id"))
+                    ->searchable()
+                    ->required(),
+                TextInput::make("title")
+                    ->required(),
+                Textarea::make("arabic")
+                    ->required(),
+                Textarea::make("latin")
+                    ->required(),
+                Textarea::make("translation")
+                    ->required(),
             ]);
     }
 
@@ -40,7 +55,9 @@ class SholawatResource extends Resource
     {
         return $table
             ->columns([
-                TextColumn::make("title")->searchable(),
+                TextColumn::make("title")
+                    ->description(fn(Doa $record): string => "Category : " . $record->category->title)
+                    ->searchable(),
                 ToggleColumn::make("status")->afterStateUpdated(function ($state, $record) {
                     Notification::make()
                         ->title('Update status successfully')
@@ -54,6 +71,10 @@ class SholawatResource extends Resource
                         1 => 'Active',
                         0 => 'Non Active'
                     ]),
+                SelectFilter::make("category")
+                    ->options(DoaCategory::all()->pluck("title", "id"))
+                    ->searchable()
+                    ->preload()
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),
@@ -75,9 +96,9 @@ class SholawatResource extends Resource
     public static function getPages(): array
     {
         return [
-            'index' => Pages\ListSholawats::route('/'),
-            'create' => Pages\CreateSholawat::route('/create'),
-            'edit' => Pages\EditSholawat::route('/{record}/edit'),
+            'index' => Pages\ListDoas::route('/'),
+            // 'create' => Pages\CreateDoa::route('/create'),
+            // 'edit' => Pages\EditDoa::route('/{record}/edit'),
         ];
     }
 }

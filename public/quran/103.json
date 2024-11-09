@@ -1,0 +1,98 @@
+[
+    {
+        "id": 6177,
+        "surah_id": 103,
+        "ayah": 1,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0648\u064e\u0627\u0644\u0652\u0639\u064e\u0635\u0652\u0631\u0650\u06d9",
+        "kitabah": "\u0648\u064e\u0627\u0644\u0652\u0639\u064e\u0635\u0652\u0631\u0650\u06d9",
+        "latin": "Wal-\u2018a\u1e63r(i).",
+        "arabic_words": [
+            "\u0648\u064e\u0627\u0644\u0652\u0639\u064e\u0635\u0652\u0631\u0650\u06d9"
+        ],
+        "translation": "Demi masa,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 103,
+            "arabic": " \u0627\u0644\u0639\u0635\u0631",
+            "latin": "Al-\u2018A\u1e63r",
+            "transliteration": "Al-\u2018Asr",
+            "translation": "Masa",
+            "num_ayah": 3,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6178,
+        "surah_id": 103,
+        "ayah": 2,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0644\u064e\u0641\u0650\u064a\u0652 \u062e\u064f\u0633\u0652\u0631\u064d\u06d9",
+        "kitabah": "\u0627\u0650\u0646\u0651\u064e \u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e \u0644\u064e\u0641\u0650\u064a\u0652 \u062e\u064f\u0633\u0652\u0631\u064d\u06d9",
+        "latin": "Innal-ins\u0101na laf\u012b khusr(in).",
+        "arabic_words": [
+            "\u0627\u0650\u0646\u0651\u064e",
+            "\u0627\u0644\u0652\u0627\u0650\u0646\u0652\u0633\u064e\u0627\u0646\u064e",
+            "\u0644\u064e\u0641\u0650\u064a\u0652",
+            "\u062e\u064f\u0633\u0652\u0631\u064d\u06d9"
+        ],
+        "translation": "sesungguhnya manusia benar-benar berada dalam kerugian,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 103,
+            "arabic": " \u0627\u0644\u0639\u0635\u0631",
+            "latin": "Al-\u2018A\u1e63r",
+            "transliteration": "Al-\u2018Asr",
+            "translation": "Masa",
+            "num_ayah": 3,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6179,
+        "surah_id": 103,
+        "ayah": 3,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "\u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650 \u0648\u064e\u062a\u064e\u0648\u064e\u0627\u0635\u064e\u0648\u0652\u0627 \u0628\u0650\u0627\u0644\u0652\u062d\u064e\u0642\u0651\u0650 \u06d5\u06d9 \u0648\u064e\u062a\u064e\u0648\u064e\u0627\u0635\u064e\u0648\u0652\u0627 \u0628\u0650\u0627\u0644\u0635\u0651\u064e\u0628\u0652\u0631\u0650 \u08d6",
+        "kitabah": "\u0627\u0650\u0644\u0651\u064e\u0627 \u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e \u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627 \u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627 \u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650 \u0648\u064e\u062a\u064e\u0648\u064e\u0627\u0635\u064e\u0648\u0652\u0627 \u0628\u0650\u0627\u0644\u0652\u062d\u064e\u0642\u0651\u0650 \u06d5\u06d9 \u0648\u064e\u062a\u064e\u0648\u064e\u0627\u0635\u064e\u0648\u0652\u0627 \u0628\u0650\u0627\u0644\u0635\u0651\u064e\u0628\u0652\u0631\u0650 \u08d6",
+        "latin": "Illal-la\u017c\u012bna \u0101man\u016b wa \u2018amilu\u1e63-\u1e63\u0101li\u1e25\u0101ti wa taw\u0101\u1e63au bil-\u1e25aqq(i), wa taw\u0101\u1e63au bi\u1e63-\u1e63abr(i).",
+        "arabic_words": [
+            "\u0627\u0650\u0644\u0651\u064e\u0627",
+            "\u0627\u0644\u0651\u064e\u0630\u0650\u064a\u0652\u0646\u064e",
+            "\u0627\u0670\u0645\u064e\u0646\u064f\u0648\u0652\u0627",
+            "\u0648\u064e\u0639\u064e\u0645\u0650\u0644\u064f\u0648\u0627",
+            "\u0627\u0644\u0635\u0651\u0670\u0644\u0650\u062d\u0670\u062a\u0650",
+            "\u0648\u064e\u062a\u064e\u0648\u064e\u0627\u0635\u064e\u0648\u0652\u0627",
+            "\u0628\u0650\u0627\u0644\u0652\u062d\u064e\u0642\u0651\u0650",
+            "\u06d5\u06d9",
+            "\u0648\u064e\u062a\u064e\u0648\u064e\u0627\u0635\u064e\u0648\u0652\u0627",
+            "\u0628\u0650\u0627\u0644\u0635\u0651\u064e\u0628\u0652\u0631\u0650 \u08d6"
+        ],
+        "translation": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 103,
+            "arabic": " \u0627\u0644\u0639\u0635\u0631",
+            "latin": "Al-\u2018A\u1e63r",
+            "transliteration": "Al-\u2018Asr",
+            "translation": "Masa",
+            "num_ayah": 3,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    }
+]
