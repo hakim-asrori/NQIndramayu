@@ -31,12 +31,12 @@ class SholawatController extends Controller
             $query->where('id', $request->sholawat_id);
         }
 
+        $query->where('status', 1);
+
         if ($request->has('sort_by')) {
             $query->orderBy($request->sort_by, $request->has('sort_direction') ? $request->sort_direction : 'asc');
         }
-
-        $query->where('status', 1);
-
+        
         $countsholawat = $query->count();
         $sholawats = $query->paginate($request->per_page);
 
